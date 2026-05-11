@@ -1,0 +1,501 @@
+property_id,borough,postcode,property_type,bedrooms,bathrooms,monthly_rent_gbp,listing_date,lease_start_date,lease_end_date,status,letting_agent,landlord_type,epc_rating,year_built,service_charge_gbp,furnished
+PROP0001,Haringey,N4 1AB,Flat,2,2,1950,2022-04-15,2022-06-04,2024-06-03,Under Offer,Savills,Estate Agency,C,1929,151.61,Furnished
+PROP0002,Greenwich,SE3 5AE,Flat,3,2,2630,2023-08-27,2023-09-20,2024-09-19,Void,Knight Frank,Estate Agency,C,1997,100.98,Furnished
+PROP0003,Wandsworth,SW18 5AP,Flat,2,1,2260,2022-02-14,2022-04-08,2023-04-08,Let,Direct,Private Landlord,C,1973,57.69,Furnished
+PROP0004,Hackney,E9 6AF,Semi-Detached House,3,3,4060,2022-04-14,2022-05-15,2023-05-15,Let,Purplebricks,Housing Association,C,1989,0.0,Part Furnished
+PROP0005,Haringey,N4 4AA,Flat,1,1,1610,2022-06-17,2022-07-23,2023-07-23,Let,Countrywide,Corporate Landlord,C,1951,80.32,Furnished
+PROP0006,Hammersmith and Fulham,SW6 9AN,Maisonette,2,2,2890,2023-02-10,2023-03-30,2024-03-29,Let,Knight Frank,Housing Association,C,1995,175.38,Part Furnished
+PROP0007,Wandsworth,SW12 7AP,Terraced House,3,2,3240,2022-02-18,2022-03-04,2023-03-04,Available,Direct,Private Landlord,D,1967,0.0,Unfurnished
+PROP0008,Greenwich,SE3 7AE,Studio,0,1,1260,2022-04-28,2022-06-17,2024-06-16,Void,Purplebricks,Private Landlord,D,1900,0.0,Part Furnished
+PROP0009,Hammersmith and Fulham,W12 3AN,Detached House,5,5,7050,2022-04-19,2022-06-05,2023-06-05,Void,Countrywide,Housing Association,E,2017,0.0,Furnished
+PROP0010,Newham,E15 8AB,Flat,1,1,1540,2022-11-11,2022-12-03,2023-12-03,Let,Savills,Private Landlord,E,1998,37.73,Part Furnished
+PROP0011,Lewisham,SE6 6AL,Maisonette,1,1,1970,2023-09-14,2023-10-18,2024-10-17,Under Offer,Countrywide,Corporate Landlord,E,1957,36.3,Furnished
+PROP0012,Tower Hamlets,E1 1AH,Flat,3,2,3050,2022-08-14,2022-08-21,2023-08-21,Available,Foxtons,Housing Association,B,1965,71.4,Part Furnished
+PROP0013,Lewisham,SE13 2AB,Flat,1,1,1680,2023-08-08,2023-09-20,2024-09-19,Let,Haart,Estate Agency,D,1945,127.07,Unfurnished
+PROP0014,Ealing,W5 4AN,Detached House,5,4,5510,2022-04-11,2022-04-21,2023-04-21,Available,Savills,Housing Association,D,1917,0.0,Unfurnished
+PROP0015,Southwark,SE1 3AJ,Flat,1,1,1820,2023-07-18,2023-07-31,2024-07-30,Available,Foxtons,Private Landlord,D,1961,64.12,Unfurnished
+PROP0016,Hammersmith and Fulham,W6 5AF,Flat,2,2,2900,2022-09-29,2022-11-25,2023-11-25,Let,Haart,Housing Association,A,1974,220.72,Furnished
+PROP0017,Waltham Forest,E10 2AF,Flat,1,1,1400,2023-06-28,2023-07-15,2024-07-14,Under Offer,Savills,Housing Association,D,1915,282.48,Part Furnished
+PROP0018,Lambeth,SE11 6AF,Semi-Detached House,3,2,3220,2023-11-05,2023-12-19,2025-12-18,Let,Hunters,Housing Association,C,1950,0.0,Furnished
+PROP0019,Haringey,N15 4AN,Semi-Detached House,3,2,3320,2022-03-16,2022-03-23,2023-03-23,Available,Savills,Private Landlord,C,1916,0.0,Unfurnished
+PROP0020,Hammersmith and Fulham,SW6 2AE,Flat,1,1,1980,2023-03-25,2023-05-24,2025-05-23,Available,Foxtons,Corporate Landlord,C,1914,266.91,Part Furnished
+PROP0021,Greenwich,SE3 1AB,Flat,2,1,2040,2022-12-18,2023-01-07,2025-01-06,Available,Hunters,Estate Agency,D,2006,83.0,Furnished
+PROP0022,Camden,NW1 2AE,Studio,0,1,1740,2022-06-15,2022-08-08,2023-08-08,Available,Direct,Private Landlord,E,1904,0.0,Unfurnished
+PROP0023,Newham,E15 2AH,Semi-Detached House,3,3,2670,2023-01-09,2023-03-07,2024-03-06,Under Offer,Countrywide,Housing Association,E,2013,0.0,Unfurnished
+PROP0024,Newham,E15 4AG,Detached House,4,4,4360,2022-07-01,2022-08-03,2023-08-03,Let,Purplebricks,Estate Agency,B,2000,0.0,Part Furnished
+PROP0025,Tower Hamlets,E1 4AJ,Terraced House,2,1,2710,2023-04-17,2023-05-16,2024-05-15,Void,Countrywide,Housing Association,C,1935,0.0,Furnished
+PROP0026,Brent,NW10 5AA,Flat,3,2,2640,2023-07-04,2023-08-01,2024-07-31,Let,Hunters,Housing Association,B,1976,130.37,Part Furnished
+PROP0027,Brent,NW10 9AF,Flat,3,2,2410,2023-08-14,2023-09-02,2024-09-01,Let,Direct,Private Landlord,C,1955,20.99,Part Furnished
+PROP0028,Hammersmith and Fulham,SW6 5AN,Flat,2,1,2840,2022-11-04,2022-12-13,2023-12-13,Available,Purplebricks,Estate Agency,B,1924,126.13,Unfurnished
+PROP0029,Haringey,N15 6AL,Detached House,4,3,4410,2023-02-20,2023-04-03,2024-04-02,Let,Countrywide,Estate Agency,D,1956,0.0,Part Furnished
+PROP0030,Lambeth,SE11 5AF,Terraced House,3,2,2920,2023-06-12,2023-07-31,2025-07-30,Available,Savills,Housing Association,C,1918,0.0,Furnished
+PROP0031,Hackney,E9 7AF,Flat,2,1,2660,2022-03-16,2022-04-21,2023-04-21,Under Offer,Countrywide,Estate Agency,B,1983,206.29,Furnished
+PROP0032,Brent,NW2 8AN,Terraced House,3,2,2760,2022-02-21,2022-04-04,2023-04-04,Under Offer,Savills,Estate Agency,E,1976,0.0,Unfurnished
+PROP0033,Brent,NW6 5AF,Studio,0,1,1200,2023-06-01,2023-07-05,2025-07-04,Let,Knight Frank,Estate Agency,C,1998,0.0,Part Furnished
+PROP0034,Lewisham,SE13 4AJ,Semi-Detached House,3,2,2920,2022-10-20,2022-11-11,2023-11-11,Let,Savills,Housing Association,B,1990,0.0,Furnished
+PROP0035,Tower Hamlets,E3 1AH,Terraced House,3,2,3400,2022-03-05,2022-03-25,2023-03-25,Let,Foxtons,Estate Agency,C,1996,0.0,Unfurnished
+PROP0036,Ealing,W13 7AL,Studio,0,1,1120,2023-07-14,2023-09-10,2025-09-09,Under Offer,Haart,Housing Association,A,1949,0.0,Unfurnished
+PROP0037,Haringey,N4 7AE,Semi-Detached House,3,2,2940,2023-04-24,2023-05-09,2025-05-08,Let,Direct,Private Landlord,D,1923,0.0,Furnished
+PROP0038,Islington,N1 9AA,Terraced House,3,2,3670,2023-01-24,2023-02-17,2024-02-17,Let,Savills,Estate Agency,C,1928,0.0,Part Furnished
+PROP0039,Tower Hamlets,E1 8AB,Studio,0,1,1310,2022-02-01,2022-02-23,2023-02-23,Void,Knight Frank,Housing Association,C,1959,0.0,Part Furnished
+PROP0040,Islington,EC1 7AJ,Studio,0,1,1590,2022-04-28,2022-06-23,2023-06-23,Under Offer,Savills,Private Landlord,C,1909,0.0,Part Furnished
+PROP0041,Waltham Forest,E11 7AH,Studio,0,1,990,2022-11-05,2022-12-25,2024-12-24,Void,Foxtons,Corporate Landlord,B,1964,0.0,Part Furnished
+PROP0042,Camden,WC1 9AG,Flat,2,1,2660,2023-01-06,2023-02-22,2024-02-22,Available,Direct,Housing Association,E,1999,145.05,Unfurnished
+PROP0043,Ealing,W13 1AL,Detached House,4,3,4420,2022-03-30,2022-04-23,2023-04-23,Let,Haart,Estate Agency,C,1923,0.0,Unfurnished
+PROP0044,Lambeth,SW2 7AL,Terraced House,3,2,3020,2023-09-03,2023-10-24,2024-10-23,Available,Countrywide,Private Landlord,E,1997,0.0,Furnished
+PROP0045,Waltham Forest,E11 6AL,Terraced House,4,3,3220,2022-04-06,2022-05-01,2023-05-01,Let,Countrywide,Corporate Landlord,E,1967,0.0,Unfurnished
+PROP0046,Wandsworth,SW12 2AN,Maisonette,3,2,3060,2023-04-10,2023-05-04,2024-05-03,Let,Savills,Housing Association,B,1924,64.92,Unfurnished
+PROP0047,Islington,EC1 1AN,Detached House,5,4,6900,2022-04-13,2022-06-12,2023-06-12,Let,Purplebricks,Housing Association,B,1935,0.0,Furnished
+PROP0048,Hackney,E9 6AE,Semi-Detached House,4,4,4660,2023-05-18,2023-05-31,2024-05-30,Available,Haart,Estate Agency,A,1932,0.0,Unfurnished
+PROP0049,Tower Hamlets,E1 4AB,Studio,0,1,1410,2023-08-14,2023-09-30,2025-09-29,Let,Knight Frank,Corporate Landlord,E,1997,0.0,Unfurnished
+PROP0050,Newham,E15 1AP,Semi-Detached House,4,4,3570,2023-01-25,2023-03-01,2024-02-29,Let,Direct,Corporate Landlord,B,1997,0.0,Furnished
+PROP0051,Haringey,N8 1AF,Flat,1,1,1490,2023-07-20,2023-07-31,2024-07-30,Let,Haart,Estate Agency,C,1990,84.82,Unfurnished
+PROP0052,Tower Hamlets,E1 2AA,Semi-Detached House,3,2,3830,2022-07-22,2022-08-25,2023-08-25,Let,Knight Frank,Corporate Landlord,B,2001,0.0,Unfurnished
+PROP0053,Newham,E13 2AP,Detached House,5,4,4900,2023-04-25,2023-06-15,2024-06-14,Available,Hunters,Estate Agency,A,2013,0.0,Unfurnished
+PROP0054,Waltham Forest,E11 1AE,Flat,2,2,1730,2023-11-22,2024-01-21,2026-01-20,Available,Foxtons,Corporate Landlord,D,1966,195.45,Unfurnished
+PROP0055,Southwark,SE1 6AJ,Maisonette,2,1,2660,2022-04-04,2022-05-11,2023-05-11,Let,Purplebricks,Private Landlord,D,1936,198.78,Unfurnished
+PROP0056,Ealing,UB6 9AL,Studio,0,1,1110,2022-11-19,2022-12-12,2023-12-12,Let,Direct,Private Landlord,D,1906,0.0,Furnished
+PROP0057,Greenwich,SE18 8AB,Terraced House,4,3,3540,2022-02-22,2022-03-14,2023-03-14,Let,Hunters,Estate Agency,A,1980,0.0,Part Furnished
+PROP0058,Brent,NW2 3AL,Flat,1,1,1530,2023-07-20,2023-08-22,2024-08-21,Let,Savills,Estate Agency,C,1965,211.62,Unfurnished
+PROP0059,Ealing,W13 7AH,Terraced House,4,4,3230,2022-05-29,2022-06-29,2023-06-29,Under Offer,Knight Frank,Private Landlord,E,1934,0.0,Furnished
+PROP0060,Islington,N7 9AJ,Detached House,5,4,7720,2023-05-17,2023-06-02,2024-06-01,Let,Purplebricks,Corporate Landlord,D,2019,0.0,Unfurnished
+PROP0061,Ealing,UB6 3AL,Flat,1,1,1460,2023-02-25,2023-03-06,2024-03-05,Available,Direct,Estate Agency,A,1916,150.69,Part Furnished
+PROP0062,Camden,NW3 5AH,Studio,0,1,1520,2023-04-13,2023-04-20,2025-04-19,Let,Knight Frank,Private Landlord,D,1983,0.0,Furnished
+PROP0063,Ealing,W5 5AF,Flat,3,2,2690,2023-10-04,2023-11-25,2024-11-24,Under Offer,Foxtons,Private Landlord,B,1955,293.5,Part Furnished
+PROP0064,Waltham Forest,E17 6AJ,Studio,0,1,1000,2022-11-03,2022-11-11,2023-11-11,Let,Foxtons,Corporate Landlord,B,1931,0.0,Part Furnished
+PROP0065,Wandsworth,SW11 8AG,Semi-Detached House,3,3,3400,2023-09-17,2023-10-18,2025-10-17,Available,Haart,Housing Association,D,1932,0.0,Part Furnished
+PROP0066,Hackney,N16 7AG,Studio,0,1,1530,2023-11-25,2024-01-05,2025-01-04,Let,Purplebricks,Corporate Landlord,D,2008,0.0,Unfurnished
+PROP0067,Lambeth,SE11 7AG,Maisonette,2,2,2280,2023-08-09,2023-09-07,2025-09-06,Let,Hunters,Private Landlord,A,1972,259.52,Part Furnished
+PROP0068,Hackney,N16 3AB,Maisonette,2,1,2760,2022-08-24,2022-10-08,2023-10-08,Let,Countrywide,Corporate Landlord,A,1939,236.58,Furnished
+PROP0069,Newham,E15 9AG,Terraced House,3,3,2780,2022-12-01,2023-01-24,2024-01-24,Let,Knight Frank,Corporate Landlord,B,1932,0.0,Unfurnished
+PROP0070,Brent,NW2 7AA,Flat,2,2,1980,2022-03-19,2022-04-04,2023-04-04,Under Offer,Direct,Corporate Landlord,C,1968,37.08,Unfurnished
+PROP0071,Haringey,N15 9AH,Detached House,4,3,4280,2023-10-16,2023-11-15,2024-11-14,Available,Haart,Private Landlord,C,1982,0.0,Furnished
+PROP0072,Haringey,N8 2AB,Studio,0,1,1130,2023-02-23,2023-03-09,2024-03-08,Let,Foxtons,Corporate Landlord,C,2013,0.0,Part Furnished
+PROP0073,Southwark,SE15 2AL,Terraced House,3,2,3570,2023-12-15,2024-01-25,2025-01-24,Available,Knight Frank,Estate Agency,D,2020,0.0,Unfurnished
+PROP0074,Hackney,E8 7AG,Semi-Detached House,3,2,3810,2022-08-30,2022-09-29,2023-09-29,Under Offer,Purplebricks,Corporate Landlord,C,1915,0.0,Unfurnished
+PROP0075,Tower Hamlets,E1 9AF,Semi-Detached House,4,3,4550,2022-01-22,2022-02-01,2023-02-01,Let,Knight Frank,Housing Association,C,2004,0.0,Furnished
+PROP0076,Camden,WC1 1AE,Studio,0,1,1490,2022-05-29,2022-06-13,2024-06-12,Let,Knight Frank,Private Landlord,A,1945,0.0,Furnished
+PROP0077,Newham,E13 9AP,Flat,1,1,1340,2023-03-08,2023-04-17,2024-04-16,Available,Haart,Estate Agency,B,1957,151.15,Part Furnished
+PROP0078,Hackney,N16 2AL,Detached House,5,4,6390,2023-10-21,2023-10-29,2024-10-28,Under Offer,Direct,Estate Agency,D,1909,0.0,Furnished
+PROP0079,Camden,NW3 9AP,Semi-Detached House,3,3,4160,2023-10-11,2023-11-24,2025-11-23,Available,Direct,Corporate Landlord,D,1912,0.0,Part Furnished
+PROP0080,Tower Hamlets,E3 8AJ,Studio,0,1,1500,2023-07-19,2023-09-10,2024-09-09,Let,Countrywide,Estate Agency,D,1993,0.0,Furnished
+PROP0081,Camden,NW3 2AH,Terraced House,3,2,4200,2023-12-05,2024-01-11,2025-01-10,Let,Savills,Private Landlord,B,1971,0.0,Furnished
+PROP0082,Newham,E13 5AH,Maisonette,3,2,2590,2023-02-25,2023-03-26,2025-03-25,Under Offer,Direct,Private Landlord,B,1973,152.22,Furnished
+PROP0083,Haringey,N15 5AA,Terraced House,2,1,2460,2023-01-12,2023-01-26,2024-01-26,Available,Direct,Private Landlord,B,1934,0.0,Part Furnished
+PROP0084,Brent,NW2 9AF,Flat,2,1,1840,2022-05-27,2022-07-09,2024-07-08,Let,Knight Frank,Private Landlord,D,1953,136.09,Furnished
+PROP0085,Camden,NW3 8AJ,Flat,2,1,2880,2022-02-23,2022-03-11,2023-03-11,Void,Foxtons,Private Landlord,D,1977,132.61,Unfurnished
+PROP0086,Lambeth,SW2 4AJ,Studio,0,1,1260,2022-04-24,2022-05-19,2024-05-18,Available,Haart,Corporate Landlord,A,1900,0.0,Furnished
+PROP0087,Islington,EC1 9AF,Maisonette,1,1,2510,2022-05-03,2022-05-10,2023-05-10,Available,Knight Frank,Housing Association,E,1971,250.01,Unfurnished
+PROP0088,Tower Hamlets,E3 2AJ,Terraced House,2,1,2610,2022-03-21,2022-04-17,2024-04-16,Let,Direct,Estate Agency,A,1941,0.0,Furnished
+PROP0089,Brent,NW6 5AH,Maisonette,2,1,2230,2022-04-01,2022-05-05,2023-05-05,Let,Direct,Private Landlord,C,1942,233.74,Furnished
+PROP0090,Greenwich,SE10 3AG,Semi-Detached House,4,3,3690,2022-12-24,2023-01-22,2025-01-21,Under Offer,Knight Frank,Housing Association,C,1922,0.0,Part Furnished
+PROP0091,Southwark,SE15 6AE,Studio,0,1,1290,2023-10-06,2023-11-13,2024-11-12,Void,Haart,Corporate Landlord,D,1908,0.0,Unfurnished
+PROP0092,Lewisham,SE6 5AB,Semi-Detached House,3,2,2910,2023-06-04,2023-06-15,2024-06-14,Let,Foxtons,Private Landlord,B,1978,0.0,Part Furnished
+PROP0093,Greenwich,SE10 8AB,Terraced House,2,1,2610,2023-08-09,2023-09-26,2024-09-25,Let,Haart,Housing Association,C,1991,0.0,Furnished
+PROP0094,Greenwich,SE3 7AJ,Semi-Detached House,3,3,3370,2023-03-26,2023-05-05,2025-05-04,Available,Purplebricks,Corporate Landlord,C,1986,0.0,Part Furnished
+PROP0095,Hackney,N16 3AH,Studio,0,1,1400,2022-12-04,2022-12-17,2024-12-16,Available,Hunters,Corporate Landlord,B,1974,0.0,Part Furnished
+PROP0096,Southwark,SE15 7AH,Maisonette,2,1,2610,2023-02-06,2023-02-21,2025-02-20,Available,Savills,Corporate Landlord,B,1985,210.85,Part Furnished
+PROP0097,Haringey,N8 8AF,Maisonette,1,1,1990,2023-06-05,2023-07-05,2024-07-04,Let,Knight Frank,Housing Association,C,1917,46.48,Unfurnished
+PROP0098,Ealing,W5 3AE,Studio,0,1,1160,2023-06-24,2023-07-03,2025-07-02,Let,Knight Frank,Estate Agency,B,1992,0.0,Unfurnished
+PROP0099,Hackney,E9 8AL,Terraced House,3,2,3540,2023-04-05,2023-04-26,2025-04-25,Let,Haart,Housing Association,C,1999,0.0,Unfurnished
+PROP0100,Greenwich,SE18 9AB,Terraced House,3,3,3100,2022-05-22,2022-06-14,2023-06-14,Available,Purplebricks,Private Landlord,C,1910,0.0,Furnished
+PROP0101,Islington,N1 7AN,Terraced House,3,2,3520,2022-08-16,2022-10-14,2023-10-14,Under Offer,Foxtons,Estate Agency,C,1930,0.0,Unfurnished
+PROP0102,Tower Hamlets,E14 3AL,Terraced House,2,1,3030,2023-10-28,2023-11-25,2024-11-24,Let,Hunters,Estate Agency,D,1978,0.0,Furnished
+PROP0103,Hammersmith and Fulham,W6 5AB,Flat,2,2,2830,2023-07-16,2023-09-07,2025-09-06,Let,Savills,Corporate Landlord,A,1930,125.95,Part Furnished
+PROP0104,Lewisham,SE6 1AP,Flat,2,1,2070,2023-10-10,2023-11-18,2025-11-17,Let,Knight Frank,Corporate Landlord,C,1930,171.2,Furnished
+PROP0105,Haringey,N8 1AJ,Semi-Detached House,4,3,3430,2023-06-23,2023-08-03,2025-08-02,Void,Foxtons,Estate Agency,C,1932,0.0,Part Furnished
+PROP0106,Hackney,E8 6AN,Terraced House,2,1,2760,2023-11-04,2023-12-21,2024-12-20,Void,Purplebricks,Housing Association,C,2004,0.0,Part Furnished
+PROP0107,Southwark,SE15 8AA,Studio,0,1,1370,2023-12-14,2024-01-20,2026-01-19,Let,Knight Frank,Private Landlord,C,1925,0.0,Furnished
+PROP0108,Brent,NW6 6AA,Flat,1,1,1630,2023-06-12,2023-07-14,2025-07-13,Let,Foxtons,Housing Association,C,1934,37.34,Unfurnished
+PROP0109,Wandsworth,SW18 5AB,Studio,0,1,1330,2023-01-31,2023-02-28,2024-02-28,Let,Haart,Corporate Landlord,D,1910,0.0,Unfurnished
+PROP0110,Newham,E15 7AE,Maisonette,1,1,1740,2022-04-16,2022-04-28,2023-04-28,Available,Hunters,Estate Agency,D,1944,134.14,Part Furnished
+PROP0111,Ealing,W5 3AP,Maisonette,3,2,2510,2022-02-28,2022-03-11,2024-03-10,Available,Purplebricks,Housing Association,D,1904,37.87,Furnished
+PROP0112,Brent,NW6 2AP,Semi-Detached House,3,2,3260,2022-02-03,2022-03-20,2023-03-20,Available,Purplebricks,Corporate Landlord,B,1967,0.0,Unfurnished
+PROP0113,Wandsworth,SW12 5AL,Flat,2,2,2530,2022-01-27,2022-03-22,2023-03-22,Let,Direct,Private Landlord,C,1978,85.67,Unfurnished
+PROP0114,Lambeth,SE11 2AN,Flat,1,1,1640,2023-04-01,2023-04-13,2025-04-12,Under Offer,Purplebricks,Corporate Landlord,E,1937,267.4,Furnished
+PROP0115,Waltham Forest,E10 8AA,Detached House,5,4,4590,2023-01-06,2023-02-14,2024-02-14,Let,Countrywide,Housing Association,C,1970,0.0,Part Furnished
+PROP0116,Camden,NW3 2AE,Terraced House,3,2,4160,2022-03-09,2022-04-04,2023-04-04,Under Offer,Haart,Estate Agency,C,1982,0.0,Furnished
+PROP0117,Lewisham,SE23 1AB,Terraced House,3,3,3010,2023-07-19,2023-09-04,2025-09-03,Let,Knight Frank,Estate Agency,E,1919,0.0,Unfurnished
+PROP0118,Southwark,SE15 5AP,Flat,1,1,1970,2023-06-16,2023-07-11,2024-07-10,Let,Hunters,Housing Association,E,1911,150.77,Furnished
+PROP0119,Newham,E6 5AF,Maisonette,1,1,1850,2023-09-12,2023-10-10,2025-10-09,Let,Foxtons,Private Landlord,D,1979,191.7,Unfurnished
+PROP0120,Hammersmith and Fulham,SW6 1AE,Semi-Detached House,3,2,4400,2023-05-10,2023-06-01,2025-05-31,Let,Haart,Private Landlord,D,1953,0.0,Unfurnished
+PROP0121,Lewisham,SE23 9AB,Flat,3,3,2570,2022-11-23,2023-01-15,2024-01-15,Under Offer,Knight Frank,Corporate Landlord,C,1930,139.94,Unfurnished
+PROP0122,Lewisham,SE23 6AF,Flat,1,1,1520,2023-01-29,2023-03-16,2024-03-15,Let,Knight Frank,Corporate Landlord,B,1963,298.79,Unfurnished
+PROP0123,Lewisham,SE13 1AG,Studio,0,1,1090,2023-02-07,2023-03-18,2024-03-17,Under Offer,Countrywide,Corporate Landlord,D,1976,0.0,Part Furnished
+PROP0124,Haringey,N8 1AP,Terraced House,2,2,2300,2022-09-28,2022-11-20,2023-11-20,Void,Purplebricks,Private Landlord,E,1924,0.0,Unfurnished
+PROP0125,Greenwich,SE10 7AH,Flat,2,1,2120,2023-07-18,2023-08-11,2025-08-10,Available,Savills,Housing Association,C,1971,281.68,Furnished
+PROP0126,Lambeth,SW2 9AE,Semi-Detached House,3,2,3200,2022-02-09,2022-02-24,2024-02-24,Let,Haart,Estate Agency,C,2019,0.0,Part Furnished
+PROP0127,Camden,NW3 1AH,Flat,3,2,3840,2023-08-31,2023-09-28,2025-09-27,Void,Haart,Corporate Landlord,C,1986,32.88,Unfurnished
+PROP0128,Newham,E6 9AP,Flat,1,1,1430,2023-11-03,2023-12-30,2025-12-29,Available,Foxtons,Estate Agency,D,1918,246.5,Furnished
+PROP0129,Hackney,N16 8AA,Semi-Detached House,4,4,4330,2023-03-28,2023-04-24,2024-04-23,Let,Countrywide,Estate Agency,B,1966,0.0,Furnished
+PROP0130,Greenwich,SE18 8AF,Flat,2,1,2100,2022-06-27,2022-08-02,2024-08-01,Let,Purplebricks,Corporate Landlord,C,1935,167.43,Furnished
+PROP0131,Islington,N1 9AJ,Studio,0,1,1490,2023-12-23,2024-01-30,2025-01-29,Let,Hunters,Corporate Landlord,D,2004,0.0,Unfurnished
+PROP0132,Brent,NW2 9AG,Studio,0,1,1060,2022-03-22,2022-04-20,2023-04-20,Available,Haart,Housing Association,E,1989,0.0,Unfurnished
+PROP0133,Southwark,SE5 6AL,Flat,3,3,2980,2023-11-17,2023-12-27,2024-12-26,Available,Foxtons,Private Landlord,B,1987,231.23,Furnished
+PROP0134,Greenwich,SE3 1AB,Maisonette,1,1,2090,2023-05-03,2023-06-09,2025-06-08,Let,Hunters,Corporate Landlord,C,1968,221.61,Furnished
+PROP0135,Hammersmith and Fulham,W6 1AG,Maisonette,2,2,3010,2022-02-07,2022-04-08,2023-04-08,Void,Knight Frank,Corporate Landlord,B,2018,294.9,Unfurnished
+PROP0136,Lewisham,SE13 8AG,Maisonette,3,2,2740,2022-05-18,2022-06-26,2023-06-26,Let,Savills,Corporate Landlord,B,1901,220.99,Unfurnished
+PROP0137,Newham,E15 2AE,Semi-Detached House,3,3,2930,2023-10-17,2023-11-18,2024-11-17,Let,Savills,Estate Agency,B,1961,0.0,Unfurnished
+PROP0138,Hammersmith and Fulham,SW6 6AF,Flat,2,1,2570,2022-10-01,2022-10-29,2023-10-29,Available,Foxtons,Corporate Landlord,A,1985,35.47,Unfurnished
+PROP0139,Southwark,SE1 8AP,Terraced House,3,2,3130,2022-10-30,2022-11-29,2024-11-28,Let,Knight Frank,Estate Agency,C,1953,0.0,Part Furnished
+PROP0140,Greenwich,SE18 6AB,Maisonette,3,2,3000,2022-09-11,2022-10-31,2024-10-30,Under Offer,Savills,Estate Agency,B,1907,248.63,Part Furnished
+PROP0141,Lambeth,SE11 8AA,Semi-Detached House,3,3,3360,2023-06-17,2023-07-22,2024-07-21,Available,Haart,Private Landlord,D,1916,0.0,Part Furnished
+PROP0142,Wandsworth,SW18 2AA,Terraced House,2,1,2670,2022-11-12,2023-01-04,2024-01-04,Let,Foxtons,Housing Association,D,1944,0.0,Part Furnished
+PROP0143,Tower Hamlets,E3 7AL,Terraced House,2,2,3050,2023-04-29,2023-05-08,2024-05-07,Let,Knight Frank,Estate Agency,D,1948,0.0,Furnished
+PROP0144,Haringey,N15 4AA,Maisonette,3,3,2780,2022-12-23,2023-01-06,2024-01-06,Under Offer,Direct,Housing Association,A,1938,138.9,Part Furnished
+PROP0145,Greenwich,SE18 7AP,Terraced House,4,4,3430,2022-12-21,2023-01-06,2024-01-06,Let,Savills,Private Landlord,A,1930,0.0,Furnished
+PROP0146,Tower Hamlets,E1 9AF,Flat,1,1,1920,2023-12-22,2024-01-01,2024-12-31,Available,Direct,Estate Agency,A,1917,151.17,Unfurnished
+PROP0147,Lambeth,SW2 9AF,Studio,0,1,1310,2023-08-15,2023-09-29,2025-09-28,Void,Countrywide,Corporate Landlord,D,1938,0.0,Unfurnished
+PROP0148,Hackney,N16 7AN,Semi-Detached House,4,3,4860,2023-10-04,2023-11-23,2024-11-22,Available,Foxtons,Corporate Landlord,C,1989,0.0,Unfurnished
+PROP0149,Wandsworth,SW11 9AJ,Flat,2,2,2450,2023-04-30,2023-05-22,2024-05-21,Let,Knight Frank,Estate Agency,D,1971,159.0,Unfurnished
+PROP0150,Lambeth,SW9 7AP,Flat,2,1,2120,2023-04-06,2023-05-06,2024-05-05,Let,Countrywide,Private Landlord,A,2011,21.84,Part Furnished
+PROP0151,Waltham Forest,E11 8AF,Semi-Detached House,3,2,2680,2022-12-07,2023-01-02,2024-01-02,Let,Countrywide,Private Landlord,C,1950,0.0,Furnished
+PROP0152,Greenwich,SE10 8AH,Flat,2,1,2130,2023-10-27,2023-11-25,2024-11-24,Let,Haart,Estate Agency,C,1947,93.88,Furnished
+PROP0153,Newham,E6 4AH,Studio,0,1,1020,2022-09-25,2022-11-06,2024-11-05,Available,Direct,Corporate Landlord,C,1948,0.0,Part Furnished
+PROP0154,Ealing,W5 6AE,Flat,3,2,2690,2022-12-12,2023-01-04,2024-01-04,Under Offer,Haart,Estate Agency,B,1992,163.96,Furnished
+PROP0155,Hammersmith and Fulham,W12 3AF,Studio,0,1,1650,2023-06-21,2023-06-30,2024-06-29,Under Offer,Foxtons,Private Landlord,B,1990,0.0,Furnished
+PROP0156,Hackney,E8 9AN,Flat,2,1,2340,2023-10-16,2023-12-04,2025-12-03,Under Offer,Haart,Private Landlord,D,1901,5.02,Part Furnished
+PROP0157,Islington,N1 9AE,Terraced House,3,3,3770,2023-12-16,2024-02-04,2025-02-03,Void,Knight Frank,Private Landlord,C,1924,0.0,Part Furnished
+PROP0158,Greenwich,SE3 2AA,Flat,2,1,2240,2022-03-22,2022-04-21,2023-04-21,Let,Countrywide,Housing Association,B,1951,113.78,Part Furnished
+PROP0159,Lewisham,SE13 4AP,Flat,1,1,1490,2023-05-27,2023-06-30,2025-06-29,Void,Savills,Private Landlord,D,1934,13.97,Furnished
+PROP0160,Haringey,N4 5AE,Maisonette,3,2,2780,2022-07-03,2022-07-30,2023-07-30,Under Offer,Knight Frank,Estate Agency,C,1972,250.4,Unfurnished
+PROP0161,Haringey,N4 7AF,Studio,0,1,1140,2022-05-24,2022-07-20,2024-07-19,Available,Purplebricks,Private Landlord,B,1943,0.0,Part Furnished
+PROP0162,Brent,NW2 6AN,Semi-Detached House,4,3,3880,2022-12-01,2022-12-09,2024-12-08,Let,Haart,Estate Agency,D,1955,0.0,Furnished
+PROP0163,Haringey,N4 7AE,Semi-Detached House,3,3,3240,2022-10-30,2022-12-27,2023-12-27,Available,Savills,Corporate Landlord,D,1940,0.0,Unfurnished
+PROP0164,Tower Hamlets,E14 9AN,Flat,2,1,2420,2022-10-04,2022-10-17,2023-10-17,Let,Direct,Estate Agency,D,1913,7.88,Unfurnished
+PROP0165,Greenwich,SE18 9AE,Flat,3,2,2910,2022-01-13,2022-02-07,2023-02-07,Let,Savills,Housing Association,D,1921,41.65,Unfurnished
+PROP0166,Islington,N1 8AP,Terraced House,2,2,3090,2023-03-08,2023-04-03,2024-04-02,Void,Purplebricks,Corporate Landlord,C,1958,0.0,Furnished
+PROP0167,Southwark,SE5 6AP,Flat,2,1,2550,2023-01-25,2023-03-24,2024-03-23,Let,Direct,Housing Association,C,1961,94.25,Unfurnished
+PROP0168,Camden,NW1 4AP,Flat,2,1,2960,2022-11-30,2022-12-31,2023-12-31,Void,Direct,Corporate Landlord,E,1923,204.51,Part Furnished
+PROP0169,Hackney,E8 5AF,Maisonette,2,1,2520,2022-10-26,2022-12-25,2024-12-24,Let,Direct,Estate Agency,C,1984,46.24,Unfurnished
+PROP0170,Brent,NW6 9AP,Terraced House,4,3,3310,2023-02-15,2023-03-28,2025-03-27,Under Offer,Direct,Private Landlord,B,1913,0.0,Furnished
+PROP0171,Haringey,N4 1AB,Semi-Detached House,3,2,3160,2023-07-31,2023-09-17,2025-09-16,Available,Purplebricks,Estate Agency,C,1928,0.0,Part Furnished
+PROP0172,Waltham Forest,E10 8AB,Terraced House,3,2,2500,2023-04-20,2023-06-15,2025-06-14,Available,Knight Frank,Corporate Landlord,C,1953,0.0,Furnished
+PROP0173,Tower Hamlets,E3 2AL,Studio,0,1,1330,2022-11-16,2022-12-14,2023-12-14,Void,Haart,Corporate Landlord,D,1940,0.0,Furnished
+PROP0174,Islington,N7 3AH,Flat,1,1,2200,2023-10-26,2023-11-08,2025-11-07,Void,Countrywide,Housing Association,E,1954,287.54,Furnished
+PROP0175,Brent,NW10 7AJ,Terraced House,3,3,2820,2023-03-19,2023-04-20,2024-04-19,Available,Countrywide,Estate Agency,A,1990,0.0,Furnished
+PROP0176,Lambeth,SW9 8AN,Flat,1,1,1620,2023-07-04,2023-07-22,2024-07-21,Let,Haart,Private Landlord,C,1976,116.59,Unfurnished
+PROP0177,Newham,E13 2AF,Flat,2,1,1930,2023-11-21,2024-01-12,2025-01-11,Under Offer,Savills,Housing Association,C,1914,54.91,Part Furnished
+PROP0178,Southwark,SE5 5AE,Terraced House,4,3,3790,2023-01-28,2023-03-03,2024-03-02,Let,Knight Frank,Housing Association,B,1940,0.0,Unfurnished
+PROP0179,Newham,E15 8AJ,Flat,2,2,1890,2022-07-19,2022-09-16,2023-09-16,Under Offer,Haart,Estate Agency,D,1962,50.18,Part Furnished
+PROP0180,Hackney,N16 9AB,Studio,0,1,1390,2022-10-09,2022-10-30,2024-10-29,Let,Haart,Estate Agency,B,1934,0.0,Part Furnished
+PROP0181,Ealing,W13 1AL,Maisonette,3,3,2710,2023-03-28,2023-05-08,2024-05-07,Under Offer,Savills,Housing Association,C,1944,258.66,Furnished
+PROP0182,Lewisham,SE13 3AF,Studio,0,1,1230,2022-08-31,2022-09-20,2024-09-19,Available,Purplebricks,Estate Agency,C,2003,0.0,Furnished
+PROP0183,Newham,E6 7AA,Terraced House,3,2,2630,2022-11-28,2023-01-19,2024-01-19,Let,Hunters,Private Landlord,C,2010,0.0,Part Furnished
+PROP0184,Southwark,SE1 5AJ,Detached House,4,4,4880,2022-11-26,2023-01-25,2024-01-25,Void,Direct,Estate Agency,D,1957,0.0,Furnished
+PROP0185,Haringey,N15 1AB,Studio,0,1,1150,2022-10-12,2022-12-02,2023-12-02,Let,Haart,Corporate Landlord,D,1981,0.0,Part Furnished
+PROP0186,Waltham Forest,E17 9AP,Terraced House,2,1,2080,2023-03-16,2023-05-14,2024-05-13,Let,Purplebricks,Corporate Landlord,B,1972,0.0,Unfurnished
+PROP0187,Brent,NW6 1AJ,Flat,1,1,1420,2023-04-16,2023-04-24,2024-04-23,Under Offer,Knight Frank,Estate Agency,C,1988,272.82,Part Furnished
+PROP0188,Islington,EC1 5AF,Flat,2,2,2800,2022-09-14,2022-09-26,2023-09-26,Available,Knight Frank,Private Landlord,D,1983,27.36,Furnished
+PROP0189,Hackney,E9 3AL,Flat,1,1,1950,2023-06-16,2023-08-05,2024-08-04,Let,Purplebricks,Private Landlord,B,1929,114.92,Part Furnished
+PROP0190,Brent,NW10 1AP,Flat,2,1,2120,2022-05-21,2022-06-21,2023-06-21,Available,Knight Frank,Private Landlord,B,1956,105.36,Furnished
+PROP0191,Haringey,N8 7AH,Detached House,4,3,4500,2022-08-11,2022-08-23,2023-08-23,Let,Savills,Estate Agency,B,1931,0.0,Unfurnished
+PROP0192,Haringey,N15 9AF,Flat,3,2,2660,2023-09-15,2023-10-10,2025-10-09,Let,Hunters,Housing Association,D,1937,193.85,Furnished
+PROP0193,Lewisham,SE6 7AH,Terraced House,3,2,2900,2022-03-14,2022-04-23,2023-04-23,Under Offer,Purplebricks,Housing Association,E,1987,0.0,Furnished
+PROP0194,Brent,NW10 5AN,Terraced House,2,2,2310,2022-01-15,2022-02-07,2023-02-07,Let,Foxtons,Estate Agency,D,1954,0.0,Part Furnished
+PROP0195,Wandsworth,SW18 6AJ,Flat,3,2,3080,2022-10-12,2022-10-24,2023-10-24,Let,Countrywide,Housing Association,B,1939,209.6,Part Furnished
+PROP0196,Ealing,W5 1AE,Flat,1,1,1590,2022-04-29,2022-06-04,2024-06-03,Available,Hunters,Housing Association,A,1920,148.92,Unfurnished
+PROP0197,Greenwich,SE3 5AN,Terraced House,3,3,2900,2022-10-03,2022-11-25,2023-11-25,Void,Foxtons,Corporate Landlord,B,1933,0.0,Part Furnished
+PROP0198,Newham,E6 2AF,Semi-Detached House,3,2,2880,2022-02-26,2022-04-05,2024-04-04,Let,Knight Frank,Corporate Landlord,E,1900,0.0,Furnished
+PROP0199,Ealing,W5 6AF,Studio,0,1,1030,2023-01-08,2023-02-08,2024-02-08,Let,Foxtons,Estate Agency,D,2017,0.0,Part Furnished
+PROP0200,Camden,NW1 8AG,Flat,1,1,2120,2023-05-30,2023-07-19,2024-07-18,Let,Foxtons,Estate Agency,C,1941,25.92,Unfurnished
+PROP0201,Hackney,N16 9AF,Terraced House,3,2,3640,2023-09-30,2023-10-22,2024-10-21,Let,Haart,Housing Association,B,1900,0.0,Unfurnished
+PROP0202,Hackney,E8 4AN,Flat,2,1,2660,2022-01-10,2022-02-07,2023-02-07,Void,Direct,Corporate Landlord,C,1953,147.61,Furnished
+PROP0203,Southwark,SE15 2AN,Detached House,4,4,5520,2023-06-17,2023-07-20,2025-07-19,Under Offer,Haart,Private Landlord,B,1981,0.0,Unfurnished
+PROP0204,Tower Hamlets,E14 6AH,Semi-Detached House,3,2,3870,2022-05-14,2022-06-05,2023-06-05,Let,Purplebricks,Estate Agency,D,1934,0.0,Furnished
+PROP0205,Tower Hamlets,E14 6AF,Maisonette,1,1,2210,2022-04-19,2022-05-06,2023-05-06,Let,Direct,Private Landlord,D,1939,139.0,Furnished
+PROP0206,Tower Hamlets,E3 9AA,Flat,2,1,2560,2022-02-11,2022-03-03,2023-03-03,Let,Countrywide,Corporate Landlord,C,1933,246.03,Furnished
+PROP0207,Hackney,E8 1AF,Maisonette,2,1,2740,2022-09-13,2022-09-26,2023-09-26,Let,Knight Frank,Private Landlord,B,1925,247.1,Unfurnished
+PROP0208,Haringey,N15 8AE,Semi-Detached House,4,4,3730,2022-09-23,2022-11-21,2023-11-21,Let,Savills,Housing Association,B,2015,0.0,Unfurnished
+PROP0209,Tower Hamlets,E14 7AE,Flat,2,2,2350,2023-08-11,2023-09-14,2025-09-13,Let,Foxtons,Estate Agency,C,1927,272.49,Unfurnished
+PROP0210,Islington,N1 2AG,Terraced House,3,3,3840,2023-09-24,2023-10-16,2025-10-15,Let,Direct,Estate Agency,D,1917,0.0,Unfurnished
+PROP0211,Lambeth,SE11 8AH,Semi-Detached House,4,4,4190,2023-07-11,2023-09-06,2024-09-05,Under Offer,Purplebricks,Estate Agency,E,1941,0.0,Unfurnished
+PROP0212,Islington,N1 4AF,Flat,2,1,2610,2022-10-15,2022-10-25,2023-10-25,Let,Countrywide,Housing Association,C,1968,244.89,Part Furnished
+PROP0213,Hackney,N16 1AH,Studio,0,1,1460,2023-02-02,2023-03-03,2024-03-02,Let,Purplebricks,Corporate Landlord,B,1972,0.0,Furnished
+PROP0214,Ealing,UB6 8AA,Maisonette,2,1,1980,2023-05-18,2023-05-27,2024-05-26,Let,Countrywide,Private Landlord,C,2017,184.24,Furnished
+PROP0215,Camden,NW3 7AP,Detached House,4,4,5610,2023-08-24,2023-10-15,2024-10-14,Void,Purplebricks,Private Landlord,B,1943,0.0,Unfurnished
+PROP0216,Camden,WC1 3AJ,Flat,1,1,2320,2023-10-17,2023-11-24,2025-11-23,Let,Purplebricks,Housing Association,C,1993,206.55,Furnished
+PROP0217,Southwark,SE5 3AH,Detached House,5,4,6220,2023-08-05,2023-08-14,2024-08-13,Available,Countrywide,Private Landlord,B,1930,0.0,Unfurnished
+PROP0218,Camden,NW3 5AB,Flat,1,1,2220,2022-12-10,2023-01-14,2024-01-14,Let,Countrywide,Private Landlord,A,1906,115.78,Part Furnished
+PROP0219,Wandsworth,SW11 8AB,Maisonette,2,1,2610,2022-12-26,2023-02-05,2024-02-05,Let,Haart,Housing Association,A,1937,6.02,Unfurnished
+PROP0220,Tower Hamlets,E3 3AP,Flat,1,1,1790,2022-03-18,2022-04-29,2023-04-29,Let,Haart,Private Landlord,D,1920,16.07,Unfurnished
+PROP0221,Lambeth,SW2 7AP,Maisonette,2,1,2400,2023-07-08,2023-07-31,2025-07-30,Let,Countrywide,Private Landlord,E,2007,147.28,Furnished
+PROP0222,Camden,NW1 5AB,Flat,1,1,2270,2023-10-03,2023-11-17,2024-11-16,Let,Foxtons,Housing Association,D,2008,34.65,Unfurnished
+PROP0223,Lewisham,SE6 1AG,Terraced House,3,3,2910,2023-02-01,2023-02-19,2024-02-19,Under Offer,Purplebricks,Housing Association,D,1959,0.0,Unfurnished
+PROP0224,Lambeth,SE11 4AN,Studio,0,1,1210,2023-12-15,2024-02-02,2025-02-01,Let,Purplebricks,Estate Agency,A,2007,0.0,Unfurnished
+PROP0225,Ealing,W5 8AE,Terraced House,4,3,3450,2023-05-03,2023-05-29,2024-05-28,Let,Foxtons,Housing Association,B,1927,0.0,Furnished
+PROP0226,Southwark,SE5 9AJ,Flat,1,1,1820,2023-10-05,2023-10-21,2025-10-20,Let,Savills,Private Landlord,E,1941,256.99,Part Furnished
+PROP0227,Lewisham,SE23 2AB,Maisonette,1,1,2000,2023-06-20,2023-08-16,2024-08-15,Let,Knight Frank,Housing Association,B,2000,85.83,Part Furnished
+PROP0228,Hammersmith and Fulham,W12 3AP,Flat,2,1,2640,2023-05-13,2023-06-25,2025-06-24,Let,Knight Frank,Corporate Landlord,D,1904,118.74,Unfurnished
+PROP0229,Waltham Forest,E10 3AG,Flat,2,1,1970,2022-01-21,2022-02-18,2023-02-18,Let,Haart,Private Landlord,D,1999,247.75,Unfurnished
+PROP0230,Waltham Forest,E11 3AB,Terraced House,2,2,2090,2023-02-21,2023-04-16,2024-04-15,Void,Purplebricks,Private Landlord,C,1990,0.0,Part Furnished
+PROP0231,Wandsworth,SW12 1AH,Flat,3,2,2800,2022-07-17,2022-09-15,2023-09-15,Void,Countrywide,Private Landlord,C,1935,110.51,Unfurnished
+PROP0232,Greenwich,SE3 3AG,Terraced House,2,1,2260,2023-01-17,2023-02-24,2025-02-23,Let,Haart,Corporate Landlord,B,1936,0.0,Furnished
+PROP0233,Wandsworth,SW18 1AL,Flat,3,3,3200,2023-10-25,2023-11-15,2025-11-14,Let,Direct,Private Landlord,B,1982,51.96,Furnished
+PROP0234,Lambeth,SW9 4AL,Flat,2,1,2440,2023-10-21,2023-11-14,2024-11-13,Under Offer,Purplebricks,Estate Agency,C,1986,156.19,Part Furnished
+PROP0235,Wandsworth,SW18 2AL,Semi-Detached House,3,2,3870,2023-01-19,2023-03-02,2025-03-01,Available,Hunters,Corporate Landlord,B,1943,0.0,Unfurnished
+PROP0236,Haringey,N15 7AH,Flat,2,1,2090,2023-10-30,2023-11-25,2024-11-24,Let,Countrywide,Private Landlord,B,1992,7.64,Unfurnished
+PROP0237,Islington,N7 4AN,Flat,2,1,2680,2022-02-06,2022-03-22,2024-03-21,Under Offer,Countrywide,Corporate Landlord,D,2016,282.2,Unfurnished
+PROP0238,Greenwich,SE18 6AB,Flat,1,1,1730,2022-07-05,2022-07-30,2023-07-30,Let,Hunters,Housing Association,C,1945,67.0,Unfurnished
+PROP0239,Wandsworth,SW18 2AL,Studio,0,1,1320,2023-08-23,2023-09-17,2024-09-16,Under Offer,Haart,Private Landlord,C,1964,0.0,Furnished
+PROP0240,Ealing,W13 3AB,Semi-Detached House,4,3,3480,2022-06-04,2022-06-19,2023-06-19,Let,Haart,Housing Association,D,1942,0.0,Part Furnished
+PROP0241,Southwark,SE1 3AP,Flat,1,1,1830,2022-08-03,2022-09-27,2023-09-27,Available,Knight Frank,Estate Agency,D,1981,128.82,Unfurnished
+PROP0242,Lewisham,SE23 1AF,Terraced House,2,1,2240,2023-01-18,2023-01-25,2024-01-25,Void,Countrywide,Private Landlord,C,1988,0.0,Unfurnished
+PROP0243,Islington,N7 9AP,Flat,2,1,2770,2022-06-21,2022-07-02,2023-07-02,Let,Hunters,Estate Agency,E,1943,130.1,Part Furnished
+PROP0244,Southwark,SE1 1AP,Flat,2,1,2510,2022-06-18,2022-08-15,2023-08-15,Let,Countrywide,Housing Association,E,1921,36.95,Part Furnished
+PROP0245,Haringey,N15 1AA,Studio,0,1,1230,2022-09-19,2022-11-14,2024-11-13,Available,Foxtons,Private Landlord,B,1953,0.0,Unfurnished
+PROP0246,Wandsworth,SW18 2AN,Flat,2,1,2430,2022-07-30,2022-09-19,2024-09-18,Available,Hunters,Estate Agency,C,1979,181.69,Furnished
+PROP0247,Wandsworth,SW11 4AG,Studio,0,1,1350,2023-09-25,2023-10-09,2024-10-08,Let,Savills,Estate Agency,E,1925,0.0,Unfurnished
+PROP0248,Waltham Forest,E11 2AB,Terraced House,3,3,2570,2022-08-01,2022-09-21,2023-09-21,Let,Foxtons,Private Landlord,D,1919,0.0,Furnished
+PROP0249,Brent,NW2 5AH,Terraced House,2,1,2330,2023-04-13,2023-05-08,2024-05-07,Let,Savills,Housing Association,C,1954,0.0,Part Furnished
+PROP0250,Tower Hamlets,E14 2AH,Flat,1,1,1990,2023-11-11,2023-12-29,2024-12-28,Let,Haart,Corporate Landlord,C,1923,34.15,Unfurnished
+PROP0251,Lewisham,SE13 7AP,Flat,2,1,2170,2023-03-08,2023-04-25,2024-04-24,Let,Foxtons,Housing Association,D,2002,170.68,Unfurnished
+PROP0252,Southwark,SE5 2AJ,Semi-Detached House,3,2,3400,2023-12-02,2024-01-31,2026-01-30,Under Offer,Knight Frank,Estate Agency,D,1905,0.0,Furnished
+PROP0253,Islington,N7 9AP,Semi-Detached House,3,2,4410,2023-06-22,2023-08-17,2025-08-16,Available,Countrywide,Corporate Landlord,B,1955,0.0,Part Furnished
+PROP0254,Waltham Forest,E11 3AN,Flat,2,1,1900,2023-01-30,2023-02-15,2025-02-14,Under Offer,Foxtons,Private Landlord,D,2009,148.75,Furnished
+PROP0255,Tower Hamlets,E1 2AL,Studio,0,1,1360,2022-10-12,2022-10-22,2024-10-21,Let,Direct,Estate Agency,D,2002,0.0,Part Furnished
+PROP0256,Lewisham,SE13 9AN,Flat,2,1,2000,2023-05-25,2023-07-18,2025-07-17,Let,Direct,Estate Agency,A,2005,27.27,Part Furnished
+PROP0257,Newham,E13 6AN,Semi-Detached House,4,3,3260,2023-11-19,2023-12-25,2024-12-24,Let,Foxtons,Housing Association,D,1991,0.0,Part Furnished
+PROP0258,Camden,WC1 2AA,Detached House,4,4,6330,2022-08-16,2022-08-23,2023-08-23,Let,Hunters,Corporate Landlord,B,1963,0.0,Furnished
+PROP0259,Ealing,W13 4AH,Detached House,5,4,4790,2023-09-18,2023-10-07,2024-10-06,Let,Direct,Housing Association,B,1996,0.0,Unfurnished
+PROP0260,Hackney,E8 9AA,Maisonette,3,3,3510,2023-04-07,2023-05-13,2025-05-12,Available,Knight Frank,Estate Agency,E,2019,129.84,Part Furnished
+PROP0261,Lewisham,SE6 4AG,Maisonette,1,1,1980,2022-05-12,2022-05-25,2023-05-25,Available,Purplebricks,Estate Agency,D,1943,291.15,Unfurnished
+PROP0262,Brent,NW2 4AP,Flat,2,1,2060,2023-06-09,2023-07-05,2025-07-04,Let,Purplebricks,Housing Association,C,1987,103.59,Part Furnished
+PROP0263,Southwark,SE15 7AN,Maisonette,1,1,2320,2023-10-15,2023-11-11,2025-11-10,Let,Purplebricks,Estate Agency,C,2012,254.19,Furnished
+PROP0264,Greenwich,SE18 5AE,Flat,2,2,1990,2022-02-27,2022-03-18,2023-03-18,Void,Knight Frank,Corporate Landlord,A,1988,235.31,Furnished
+PROP0265,Brent,NW10 5AA,Terraced House,3,2,2580,2023-11-23,2024-01-16,2026-01-15,Under Offer,Direct,Housing Association,D,1949,0.0,Unfurnished
+PROP0266,Brent,NW10 6AP,Maisonette,2,1,1940,2022-09-15,2022-10-04,2024-10-03,Under Offer,Haart,Housing Association,E,1994,181.02,Part Furnished
+PROP0267,Lambeth,SW9 9AG,Flat,1,1,1610,2022-06-27,2022-08-20,2024-08-19,Let,Foxtons,Estate Agency,B,1920,175.2,Unfurnished
+PROP0268,Hackney,N16 9AH,Flat,1,1,1810,2022-11-27,2023-01-11,2024-01-11,Void,Hunters,Estate Agency,B,2000,212.3,Part Furnished
+PROP0269,Lambeth,SW2 4AH,Maisonette,3,3,3160,2022-06-13,2022-07-16,2024-07-15,Let,Savills,Corporate Landlord,C,1946,88.07,Part Furnished
+PROP0270,Greenwich,SE18 6AJ,Terraced House,2,2,2510,2023-04-02,2023-04-24,2025-04-23,Available,Countrywide,Private Landlord,B,1949,0.0,Unfurnished
+PROP0271,Greenwich,SE18 4AH,Detached House,4,3,4830,2023-01-19,2023-02-27,2025-02-26,Let,Foxtons,Corporate Landlord,E,1910,0.0,Furnished
+PROP0272,Southwark,SE1 4AN,Maisonette,3,2,2970,2022-03-09,2022-03-29,2024-03-28,Available,Countrywide,Estate Agency,D,1982,245.03,Furnished
+PROP0273,Waltham Forest,E11 4AG,Semi-Detached House,3,2,2910,2022-02-08,2022-02-20,2023-02-20,Let,Hunters,Private Landlord,D,1949,0.0,Unfurnished
+PROP0274,Haringey,N15 2AH,Terraced House,3,3,2760,2022-05-02,2022-06-12,2023-06-12,Available,Savills,Private Landlord,E,1913,0.0,Unfurnished
+PROP0275,Brent,NW2 9AF,Semi-Detached House,4,4,3480,2023-03-25,2023-04-25,2024-04-24,Void,Foxtons,Estate Agency,B,1995,0.0,Unfurnished
+PROP0276,Brent,NW10 9AE,Studio,0,1,1100,2023-10-12,2023-10-28,2024-10-27,Available,Purplebricks,Private Landlord,B,1905,0.0,Furnished
+PROP0277,Newham,E13 9AE,Semi-Detached House,4,3,3660,2022-11-09,2022-11-29,2024-11-28,Available,Purplebricks,Housing Association,B,1923,0.0,Furnished
+PROP0278,Newham,E13 2AG,Studio,0,1,1010,2023-11-19,2024-01-16,2026-01-15,Under Offer,Haart,Private Landlord,B,1925,0.0,Part Furnished
+PROP0279,Newham,E13 8AL,Terraced House,3,2,2450,2023-11-03,2023-11-25,2024-11-24,Let,Savills,Housing Association,C,1978,0.0,Part Furnished
+PROP0280,Islington,N7 7AG,Semi-Detached House,3,2,4200,2022-11-20,2022-12-24,2023-12-24,Let,Countrywide,Housing Association,C,1917,0.0,Part Furnished
+PROP0281,Waltham Forest,E10 9AF,Flat,2,1,1830,2022-11-09,2022-12-17,2024-12-16,Let,Savills,Corporate Landlord,C,1993,265.9,Furnished
+PROP0282,Waltham Forest,E11 5AN,Flat,1,1,1440,2023-08-19,2023-10-02,2024-10-01,Void,Countrywide,Private Landlord,E,1960,196.17,Furnished
+PROP0283,Camden,WC1 3AN,Terraced House,3,3,3890,2023-06-07,2023-06-19,2024-06-18,Let,Foxtons,Housing Association,B,1957,0.0,Furnished
+PROP0284,Southwark,SE1 8AF,Semi-Detached House,4,3,4630,2022-05-30,2022-07-23,2024-07-22,Let,Purplebricks,Private Landlord,B,1933,0.0,Unfurnished
+PROP0285,Lambeth,SE11 6AB,Flat,1,1,1840,2023-01-05,2023-02-05,2024-02-05,Under Offer,Foxtons,Private Landlord,E,1981,248.89,Part Furnished
+PROP0286,Islington,EC1 4AN,Semi-Detached House,4,4,4840,2023-01-23,2023-02-22,2025-02-21,Available,Savills,Corporate Landlord,D,1945,0.0,Unfurnished
+PROP0287,Lewisham,SE13 3AE,Studio,0,1,1080,2022-05-23,2022-06-27,2023-06-27,Let,Hunters,Housing Association,C,1977,0.0,Part Furnished
+PROP0288,Ealing,UB6 7AA,Flat,1,1,1560,2022-04-27,2022-06-03,2024-06-02,Let,Countrywide,Housing Association,C,1905,38.37,Part Furnished
+PROP0289,Southwark,SE15 1AG,Flat,3,3,3300,2022-05-31,2022-06-10,2023-06-10,Let,Knight Frank,Estate Agency,B,1927,134.76,Unfurnished
+PROP0290,Ealing,UB6 6AL,Terraced House,3,2,2740,2023-08-20,2023-10-18,2024-10-17,Available,Hunters,Housing Association,B,1929,0.0,Unfurnished
+PROP0291,Wandsworth,SW12 1AN,Flat,1,1,1800,2023-06-01,2023-07-21,2024-07-20,Void,Savills,Housing Association,E,1996,35.25,Unfurnished
+PROP0292,Haringey,N15 9AJ,Flat,3,2,2760,2023-11-26,2024-01-13,2025-01-12,Let,Purplebricks,Private Landlord,C,2020,240.69,Unfurnished
+PROP0293,Camden,NW3 9AJ,Semi-Detached House,4,3,5190,2023-03-12,2023-03-27,2024-03-26,Let,Countrywide,Private Landlord,C,1924,0.0,Furnished
+PROP0294,Waltham Forest,E17 2AE,Detached House,4,3,3970,2023-06-17,2023-06-24,2024-06-23,Available,Purplebricks,Estate Agency,D,1983,0.0,Part Furnished
+PROP0295,Islington,N7 9AL,Flat,3,2,3550,2023-09-19,2023-10-13,2025-10-12,Let,Countrywide,Estate Agency,B,1947,167.73,Unfurnished
+PROP0296,Islington,EC1 3AB,Maisonette,3,2,3800,2023-02-12,2023-04-07,2024-04-06,Under Offer,Savills,Housing Association,C,1965,120.17,Unfurnished
+PROP0297,Brent,NW6 7AB,Semi-Detached House,4,3,3730,2022-06-14,2022-07-15,2024-07-14,Let,Savills,Housing Association,B,1933,0.0,Furnished
+PROP0298,Camden,WC1 8AL,Flat,1,1,2120,2023-02-15,2023-04-02,2025-04-01,Let,Foxtons,Housing Association,A,1925,255.17,Part Furnished
+PROP0299,Islington,N7 1AE,Flat,3,2,3520,2022-08-26,2022-10-11,2023-10-11,Available,Purplebricks,Housing Association,B,1935,233.9,Unfurnished
+PROP0300,Haringey,N8 4AP,Terraced House,3,2,2590,2023-12-22,2024-01-02,2025-01-01,Let,Purplebricks,Corporate Landlord,C,1958,0.0,Unfurnished
+PROP0301,Newham,E15 5AL,Flat,1,1,1440,2023-07-27,2023-08-07,2025-08-06,Let,Savills,Corporate Landlord,D,1972,145.09,Furnished
+PROP0302,Brent,NW10 4AF,Flat,2,1,1980,2023-08-24,2023-09-01,2024-08-31,Let,Savills,Estate Agency,C,1952,286.63,Part Furnished
+PROP0303,Greenwich,SE3 6AH,Flat,2,2,2070,2023-02-13,2023-04-04,2025-04-03,Void,Savills,Housing Association,C,2014,172.11,Furnished
+PROP0304,Waltham Forest,E10 4AP,Semi-Detached House,3,2,2920,2022-08-29,2022-10-22,2023-10-22,Under Offer,Countrywide,Housing Association,C,1919,0.0,Furnished
+PROP0305,Tower Hamlets,E14 5AL,Maisonette,2,1,2390,2023-07-09,2023-07-18,2024-07-17,Let,Purplebricks,Estate Agency,B,1997,274.8,Unfurnished
+PROP0306,Wandsworth,SW18 3AL,Flat,3,3,2810,2023-03-10,2023-04-16,2025-04-15,Let,Purplebricks,Estate Agency,B,1989,155.46,Unfurnished
+PROP0307,Waltham Forest,E10 5AL,Flat,1,1,1430,2022-11-30,2022-12-30,2024-12-29,Under Offer,Knight Frank,Corporate Landlord,C,1946,55.17,Unfurnished
+PROP0308,Lambeth,SE11 5AF,Terraced House,3,2,3310,2022-10-14,2022-11-18,2023-11-18,Available,Countrywide,Private Landlord,E,1955,0.0,Unfurnished
+PROP0309,Lambeth,SW9 5AN,Flat,1,1,1810,2022-06-30,2022-08-02,2023-08-02,Let,Purplebricks,Estate Agency,A,1950,29.69,Furnished
+PROP0310,Hackney,N16 9AG,Flat,2,1,2660,2022-04-09,2022-05-14,2024-05-13,Let,Purplebricks,Corporate Landlord,C,1902,123.53,Unfurnished
+PROP0311,Ealing,W13 9AL,Semi-Detached House,4,4,3580,2023-10-28,2023-12-15,2025-12-14,Let,Hunters,Corporate Landlord,D,2013,0.0,Furnished
+PROP0312,Wandsworth,SW11 3AH,Semi-Detached House,3,2,3850,2022-06-21,2022-08-07,2023-08-07,Let,Direct,Private Landlord,C,1940,0.0,Unfurnished
+PROP0313,Haringey,N4 3AA,Flat,2,1,2080,2022-10-05,2022-11-09,2023-11-09,Available,Haart,Estate Agency,B,1993,70.39,Unfurnished
+PROP0314,Waltham Forest,E10 7AN,Detached House,4,4,3750,2022-04-16,2022-04-29,2023-04-29,Under Offer,Haart,Private Landlord,B,1913,0.0,Unfurnished
+PROP0315,Newham,E6 6AH,Flat,2,1,1810,2022-10-18,2022-11-22,2024-11-21,Let,Knight Frank,Private Landlord,D,1959,292.49,Part Furnished
+PROP0316,Hammersmith and Fulham,SW6 9AG,Flat,2,2,2890,2023-12-16,2024-01-26,2025-01-25,Available,Haart,Estate Agency,C,1961,161.9,Furnished
+PROP0317,Lewisham,SE6 8AN,Flat,2,1,1940,2022-01-11,2022-01-18,2024-01-18,Void,Knight Frank,Corporate Landlord,A,1988,276.63,Unfurnished
+PROP0318,Islington,N1 3AJ,Flat,2,1,2770,2022-01-08,2022-02-19,2023-02-19,Let,Direct,Estate Agency,D,1928,78.89,Unfurnished
+PROP0319,Haringey,N4 2AE,Flat,3,2,2700,2022-10-19,2022-12-06,2024-12-05,Let,Hunters,Estate Agency,B,1937,33.11,Unfurnished
+PROP0320,Newham,E13 3AL,Terraced House,4,4,3060,2022-06-05,2022-06-15,2024-06-14,Let,Savills,Corporate Landlord,A,1929,0.0,Furnished
+PROP0321,Southwark,SE1 3AA,Flat,1,1,1820,2023-05-26,2023-06-25,2024-06-24,Available,Foxtons,Corporate Landlord,C,1999,117.73,Part Furnished
+PROP0322,Lewisham,SE23 1AF,Flat,2,1,2170,2022-05-05,2022-06-30,2024-06-29,Let,Haart,Housing Association,D,1994,231.3,Part Furnished
+PROP0323,Haringey,N8 8AG,Maisonette,2,1,2200,2022-11-16,2022-12-13,2023-12-13,Available,Foxtons,Private Landlord,C,1946,266.26,Part Furnished
+PROP0324,Lambeth,SW2 1AP,Maisonette,1,1,2140,2022-01-16,2022-02-02,2023-02-02,Available,Direct,Housing Association,D,1988,178.86,Unfurnished
+PROP0325,Brent,NW10 9AB,Flat,1,1,1420,2023-09-26,2023-10-24,2025-10-23,Let,Purplebricks,Housing Association,B,1962,69.8,Part Furnished
+PROP0326,Brent,NW2 8AL,Semi-Detached House,3,2,3150,2022-01-22,2022-03-14,2023-03-14,Let,Knight Frank,Corporate Landlord,E,1937,0.0,Part Furnished
+PROP0327,Waltham Forest,E11 3AL,Terraced House,3,2,2490,2023-04-25,2023-05-19,2025-05-18,Under Offer,Knight Frank,Private Landlord,C,2004,0.0,Unfurnished
+PROP0328,Greenwich,SE18 2AN,Terraced House,2,1,2450,2022-07-09,2022-07-17,2024-07-16,Under Offer,Countrywide,Corporate Landlord,D,1924,0.0,Part Furnished
+PROP0329,Haringey,N4 3AA,Terraced House,3,2,2720,2023-02-24,2023-04-13,2024-04-12,Let,Savills,Private Landlord,C,1913,0.0,Unfurnished
+PROP0330,Lambeth,SW9 4AP,Flat,3,2,3070,2023-11-05,2023-12-13,2025-12-12,Available,Hunters,Private Landlord,B,1901,279.06,Furnished
+PROP0331,Haringey,N15 1AP,Terraced House,2,1,2440,2022-03-04,2022-04-03,2024-04-02,Available,Direct,Corporate Landlord,C,1967,0.0,Furnished
+PROP0332,Waltham Forest,E10 9AF,Flat,2,2,1980,2023-06-16,2023-06-29,2024-06-28,Available,Direct,Housing Association,B,1971,224.76,Unfurnished
+PROP0333,Waltham Forest,E11 7AN,Flat,3,2,2440,2023-12-21,2024-02-08,2025-02-07,Under Offer,Knight Frank,Housing Association,C,1984,47.45,Part Furnished
+PROP0334,Lewisham,SE23 4AP,Maisonette,2,1,2330,2022-11-29,2022-12-29,2023-12-29,Void,Direct,Corporate Landlord,E,1927,112.52,Part Furnished
+PROP0335,Hammersmith and Fulham,SW6 3AG,Detached House,4,3,5710,2023-02-11,2023-02-18,2025-02-17,Let,Hunters,Private Landlord,A,1938,0.0,Furnished
+PROP0336,Lambeth,SW2 8AH,Studio,0,1,1350,2023-12-08,2024-02-05,2025-02-04,Under Offer,Knight Frank,Private Landlord,B,1917,0.0,Unfurnished
+PROP0337,Camden,WC1 6AL,Studio,0,1,1550,2022-11-04,2022-11-16,2024-11-15,Let,Countrywide,Private Landlord,B,1962,0.0,Part Furnished
+PROP0338,Waltham Forest,E17 7AJ,Semi-Detached House,3,2,2880,2022-02-08,2022-04-02,2024-04-01,Let,Foxtons,Corporate Landlord,B,2011,0.0,Furnished
+PROP0339,Waltham Forest,E11 3AH,Semi-Detached House,4,4,3420,2023-10-10,2023-11-10,2024-11-09,Let,Foxtons,Corporate Landlord,E,1989,0.0,Furnished
+PROP0340,Southwark,SE1 3AH,Flat,2,1,2510,2023-08-13,2023-09-21,2024-09-20,Let,Hunters,Estate Agency,B,1960,171.43,Furnished
+PROP0341,Greenwich,SE3 4AN,Terraced House,2,1,2450,2023-12-16,2023-12-31,2024-12-30,Let,Countrywide,Estate Agency,E,1931,0.0,Furnished
+PROP0342,Tower Hamlets,E3 4AH,Flat,2,1,2550,2023-08-13,2023-08-25,2024-08-24,Available,Direct,Corporate Landlord,C,1976,196.62,Unfurnished
+PROP0343,Southwark,SE15 2AB,Maisonette,3,2,3280,2023-03-28,2023-04-06,2024-04-05,Let,Purplebricks,Housing Association,A,1931,284.68,Furnished
+PROP0344,Ealing,W13 4AN,Studio,0,1,1030,2023-12-12,2024-02-08,2025-02-07,Let,Haart,Private Landlord,C,1926,0.0,Part Furnished
+PROP0345,Greenwich,SE3 3AA,Studio,0,1,1220,2022-05-25,2022-07-15,2024-07-14,Available,Direct,Private Landlord,C,1925,0.0,Part Furnished
+PROP0346,Newham,E6 5AJ,Flat,2,1,2020,2022-03-10,2022-04-10,2024-04-09,Let,Purplebricks,Private Landlord,C,1948,152.56,Part Furnished
+PROP0347,Tower Hamlets,E1 9AG,Maisonette,2,1,2610,2022-07-10,2022-07-29,2024-07-28,Under Offer,Foxtons,Private Landlord,C,1962,118.02,Furnished
+PROP0348,Hackney,E8 9AG,Flat,2,1,2570,2022-08-30,2022-10-08,2023-10-08,Void,Hunters,Estate Agency,C,1919,102.54,Unfurnished
+PROP0349,Haringey,N8 5AP,Flat,2,1,2190,2023-09-20,2023-11-06,2025-11-05,Let,Countrywide,Housing Association,C,1957,162.67,Furnished
+PROP0350,Haringey,N4 3AH,Flat,3,2,2740,2022-05-22,2022-06-17,2024-06-16,Available,Knight Frank,Estate Agency,B,1971,159.89,Part Furnished
+PROP0351,Tower Hamlets,E1 2AE,Flat,1,1,1750,2022-11-23,2022-12-26,2023-12-26,Let,Hunters,Housing Association,B,1903,228.73,Part Furnished
+PROP0352,Newham,E6 9AP,Flat,3,2,2330,2022-08-26,2022-09-16,2024-09-15,Let,Savills,Estate Agency,D,1991,194.87,Furnished
+PROP0353,Ealing,W13 4AF,Terraced House,4,4,3080,2022-08-20,2022-08-29,2023-08-29,Void,Foxtons,Corporate Landlord,C,1908,0.0,Furnished
+PROP0354,Hammersmith and Fulham,SW6 6AJ,Maisonette,2,1,2810,2022-11-29,2023-01-04,2024-01-04,Let,Foxtons,Estate Agency,E,1967,192.42,Part Furnished
+PROP0355,Brent,NW10 1AF,Flat,1,1,1510,2022-02-13,2022-03-07,2024-03-06,Let,Foxtons,Estate Agency,C,1956,119.41,Unfurnished
+PROP0356,Brent,NW10 8AB,Studio,0,1,1080,2022-10-29,2022-12-14,2023-12-14,Available,Knight Frank,Estate Agency,E,1914,0.0,Furnished
+PROP0357,Brent,NW6 2AG,Semi-Detached House,4,3,3400,2023-02-28,2023-03-27,2024-03-26,Let,Haart,Housing Association,C,1988,0.0,Part Furnished
+PROP0358,Hammersmith and Fulham,SW6 7AN,Detached House,4,3,5970,2022-04-04,2022-04-18,2024-04-17,Let,Purplebricks,Private Landlord,B,1948,0.0,Part Furnished
+PROP0359,Wandsworth,SW12 5AG,Flat,1,1,1810,2023-11-07,2023-11-23,2024-11-22,Under Offer,Knight Frank,Private Landlord,D,1936,187.94,Furnished
+PROP0360,Hammersmith and Fulham,SW6 8AF,Flat,1,1,2090,2022-09-17,2022-09-24,2023-09-24,Let,Haart,Private Landlord,C,1975,197.84,Unfurnished
+PROP0361,Wandsworth,SW11 3AA,Terraced House,2,2,2850,2022-10-12,2022-11-27,2024-11-26,Available,Countrywide,Private Landlord,C,1904,0.0,Furnished
+PROP0362,Ealing,UB6 5AP,Flat,3,2,2430,2022-03-31,2022-04-10,2023-04-10,Let,Knight Frank,Housing Association,E,1922,289.89,Part Furnished
+PROP0363,Newham,E13 8AE,Terraced House,2,2,2250,2022-11-27,2022-12-27,2023-12-27,Void,Direct,Private Landlord,B,1988,0.0,Unfurnished
+PROP0364,Camden,WC1 5AJ,Terraced House,3,2,3730,2022-03-01,2022-03-14,2024-03-13,Available,Savills,Estate Agency,C,1933,0.0,Part Furnished
+PROP0365,Newham,E15 4AG,Maisonette,2,2,2020,2023-05-24,2023-07-03,2025-07-02,Available,Haart,Housing Association,C,1900,35.46,Unfurnished
+PROP0366,Haringey,N4 4AG,Studio,0,1,1230,2023-09-23,2023-10-26,2024-10-25,Let,Purplebricks,Housing Association,C,2001,0.0,Furnished
+PROP0367,Islington,N1 6AH,Flat,3,2,3660,2022-04-27,2022-06-16,2023-06-16,Let,Foxtons,Housing Association,D,2017,142.35,Furnished
+PROP0368,Haringey,N15 5AP,Flat,1,1,1540,2023-07-04,2023-08-01,2024-07-31,Void,Direct,Private Landlord,C,1971,160.77,Furnished
+PROP0369,Newham,E15 7AE,Semi-Detached House,3,3,3100,2022-10-15,2022-12-14,2023-12-14,Let,Direct,Housing Association,B,2010,0.0,Unfurnished
+PROP0370,Waltham Forest,E17 4AN,Studio,0,1,980,2023-02-28,2023-03-12,2024-03-11,Under Offer,Purplebricks,Estate Agency,C,1922,0.0,Furnished
+PROP0371,Camden,NW3 8AN,Studio,0,1,1730,2023-03-31,2023-05-09,2024-05-08,Void,Knight Frank,Housing Association,C,1999,0.0,Unfurnished
+PROP0372,Southwark,SE5 9AB,Studio,0,1,1450,2023-06-13,2023-08-02,2024-08-01,Let,Foxtons,Estate Agency,A,1939,0.0,Furnished
+PROP0373,Haringey,N15 5AF,Studio,0,1,1130,2022-02-17,2022-03-02,2024-03-01,Void,Hunters,Private Landlord,C,1925,0.0,Furnished
+PROP0374,Islington,N1 9AH,Flat,2,1,2800,2022-10-07,2022-10-23,2023-10-23,Let,Foxtons,Private Landlord,E,1940,81.32,Part Furnished
+PROP0375,Brent,NW6 1AB,Flat,1,1,1420,2023-09-20,2023-10-18,2025-10-17,Let,Knight Frank,Private Landlord,D,1906,25.84,Unfurnished
+PROP0376,Southwark,SE15 9AB,Detached House,5,4,6670,2023-12-18,2024-01-22,2026-01-21,Let,Purplebricks,Housing Association,D,1972,0.0,Furnished
+PROP0377,Tower Hamlets,E1 4AE,Studio,0,1,1410,2023-04-12,2023-05-08,2025-05-07,Available,Haart,Estate Agency,C,2016,0.0,Unfurnished
+PROP0378,Wandsworth,SW11 5AH,Flat,2,1,2330,2022-01-31,2022-02-11,2023-02-11,Let,Haart,Estate Agency,B,1965,30.88,Part Furnished
+PROP0379,Brent,NW10 4AN,Flat,3,2,2390,2022-11-06,2022-12-17,2023-12-17,Let,Direct,Housing Association,B,1961,115.14,Unfurnished
+PROP0380,Lambeth,SE11 2AP,Studio,0,1,1280,2023-03-22,2023-05-04,2024-05-03,Let,Countrywide,Housing Association,D,1914,0.0,Part Furnished
+PROP0381,Newham,E13 1AB,Terraced House,2,1,2050,2023-02-20,2023-03-03,2025-03-02,Let,Direct,Corporate Landlord,C,2004,0.0,Furnished
+PROP0382,Hammersmith and Fulham,W6 4AH,Semi-Detached House,4,4,5060,2023-11-08,2023-11-24,2024-11-23,Let,Direct,Estate Agency,C,1972,0.0,Part Furnished
+PROP0383,Islington,EC1 1AH,Maisonette,2,1,3080,2022-12-19,2022-12-31,2024-12-30,Let,Direct,Housing Association,E,1906,0.25,Part Furnished
+PROP0384,Ealing,W13 7AJ,Maisonette,1,1,1970,2022-08-29,2022-10-02,2024-10-01,Available,Purplebricks,Estate Agency,E,1927,198.75,Unfurnished
+PROP0385,Southwark,SE15 1AE,Flat,2,1,2550,2022-06-07,2022-07-02,2024-07-01,Let,Foxtons,Private Landlord,D,1984,131.02,Furnished
+PROP0386,Tower Hamlets,E14 8AJ,Flat,2,1,2630,2023-12-14,2024-01-28,2025-01-27,Available,Haart,Estate Agency,C,1928,55.74,Part Furnished
+PROP0387,Hackney,N16 8AH,Semi-Detached House,4,4,4710,2022-10-03,2022-11-05,2024-11-04,Available,Foxtons,Private Landlord,B,1974,0.0,Unfurnished
+PROP0388,Waltham Forest,E11 9AP,Flat,3,2,2360,2022-03-22,2022-05-01,2024-04-30,Let,Haart,Private Landlord,C,1978,15.83,Unfurnished
+PROP0389,Greenwich,SE3 3AA,Studio,0,1,1210,2023-04-26,2023-06-08,2025-06-07,Let,Purplebricks,Corporate Landlord,C,1993,0.0,Part Furnished
+PROP0390,Islington,EC1 2AE,Flat,2,1,2590,2022-02-22,2022-04-12,2023-04-12,Void,Foxtons,Corporate Landlord,E,1909,255.43,Unfurnished
+PROP0391,Islington,EC1 3AG,Flat,2,1,2890,2022-01-15,2022-03-10,2023-03-10,Available,Knight Frank,Estate Agency,C,1962,54.24,Part Furnished
+PROP0392,Ealing,W5 8AE,Flat,1,1,1510,2022-06-07,2022-08-06,2023-08-06,Void,Direct,Estate Agency,C,1973,220.31,Unfurnished
+PROP0393,Hackney,N16 7AL,Semi-Detached House,3,3,3640,2023-02-13,2023-03-22,2024-03-21,Let,Countrywide,Estate Agency,C,1918,0.0,Part Furnished
+PROP0394,Ealing,W13 5AH,Terraced House,3,2,2650,2022-11-20,2022-12-30,2024-12-29,Under Offer,Savills,Corporate Landlord,C,1934,0.0,Furnished
+PROP0395,Islington,N7 3AH,Semi-Detached House,3,2,4340,2022-09-05,2022-10-28,2024-10-27,Available,Countrywide,Corporate Landlord,E,1901,0.0,Part Furnished
+PROP0396,Hackney,E9 4AA,Studio,0,1,1420,2023-06-22,2023-07-05,2025-07-04,Let,Countrywide,Corporate Landlord,A,1979,0.0,Furnished
+PROP0397,Hackney,N16 3AB,Maisonette,1,1,2450,2023-12-27,2024-01-10,2025-01-09,Under Offer,Knight Frank,Estate Agency,B,1932,88.37,Part Furnished
+PROP0398,Hammersmith and Fulham,W6 7AJ,Flat,2,1,2800,2023-12-10,2024-01-28,2025-01-27,Let,Savills,Corporate Landlord,C,1907,77.47,Unfurnished
+PROP0399,Southwark,SE15 2AL,Terraced House,4,4,4100,2022-07-02,2022-08-19,2023-08-19,Let,Direct,Housing Association,C,1913,0.0,Furnished
+PROP0400,Tower Hamlets,E3 3AH,Flat,2,1,2290,2023-05-25,2023-06-10,2025-06-09,Available,Foxtons,Estate Agency,D,1973,1.11,Part Furnished
+PROP0401,Brent,NW10 9AH,Terraced House,4,3,3510,2022-03-13,2022-04-23,2023-04-23,Let,Haart,Private Landlord,C,1987,0.0,Unfurnished
+PROP0402,Wandsworth,SW11 9AA,Flat,1,1,1800,2022-12-15,2022-12-27,2023-12-27,Void,Hunters,Housing Association,D,1984,57.3,Part Furnished
+PROP0403,Wandsworth,SW11 4AA,Studio,0,1,1380,2023-05-14,2023-05-26,2025-05-25,Let,Countrywide,Housing Association,C,1962,0.0,Unfurnished
+PROP0404,Tower Hamlets,E3 1AH,Studio,0,1,1370,2023-07-01,2023-08-30,2024-08-29,Under Offer,Foxtons,Private Landlord,A,1951,0.0,Furnished
+PROP0405,Lambeth,SW2 3AL,Studio,0,1,1300,2023-11-26,2024-01-06,2025-01-05,Available,Countrywide,Private Landlord,A,1960,0.0,Part Furnished
+PROP0406,Hackney,E8 2AL,Flat,1,1,1820,2022-02-21,2022-03-19,2023-03-19,Let,Knight Frank,Private Landlord,C,1908,241.34,Unfurnished
+PROP0407,Camden,NW1 1AP,Studio,0,1,1670,2022-11-29,2022-12-13,2024-12-12,Available,Knight Frank,Corporate Landlord,B,1942,0.0,Furnished
+PROP0408,Tower Hamlets,E1 7AE,Flat,2,2,2560,2023-07-21,2023-08-07,2024-08-06,Let,Foxtons,Housing Association,A,2012,146.09,Furnished
+PROP0409,Hackney,E8 3AG,Flat,1,1,1970,2022-10-18,2022-11-20,2024-11-19,Void,Haart,Housing Association,E,1957,123.61,Furnished
+PROP0410,Newham,E13 1AN,Semi-Detached House,4,4,3540,2023-09-19,2023-10-01,2025-09-30,Void,Hunters,Corporate Landlord,C,1924,0.0,Furnished
+PROP0411,Greenwich,SE10 4AB,Maisonette,3,2,3020,2023-07-07,2023-08-15,2024-08-14,Let,Countrywide,Corporate Landlord,B,1987,253.13,Unfurnished
+PROP0412,Lewisham,SE13 1AN,Flat,1,1,1600,2022-10-19,2022-11-08,2023-11-08,Let,Haart,Private Landlord,B,1920,235.65,Unfurnished
+PROP0413,Greenwich,SE10 6AF,Flat,1,1,1620,2023-08-17,2023-09-13,2024-09-12,Let,Purplebricks,Housing Association,B,1930,221.32,Furnished
+PROP0414,Wandsworth,SW12 6AE,Studio,0,1,1340,2023-05-12,2023-05-22,2024-05-21,Let,Haart,Housing Association,D,1992,0.0,Furnished
+PROP0415,Haringey,N8 8AJ,Terraced House,3,3,2740,2022-02-02,2022-03-25,2024-03-24,Let,Knight Frank,Private Landlord,B,1997,0.0,Unfurnished
+PROP0416,Lambeth,SW9 9AL,Studio,0,1,1220,2023-10-16,2023-12-01,2024-11-30,Available,Countrywide,Private Landlord,C,1975,0.0,Unfurnished
+PROP0417,Ealing,UB6 1AJ,Terraced House,2,1,2210,2022-09-10,2022-10-02,2023-10-02,Let,Countrywide,Housing Association,A,1905,0.0,Unfurnished
+PROP0418,Waltham Forest,E10 2AN,Studio,0,1,1040,2023-02-08,2023-03-17,2025-03-16,Void,Haart,Estate Agency,A,1988,0.0,Part Furnished
+PROP0419,Wandsworth,SW18 8AP,Maisonette,1,1,2170,2023-10-26,2023-11-07,2024-11-06,Let,Hunters,Housing Association,A,1958,139.13,Furnished
+PROP0420,Ealing,UB6 6AN,Detached House,4,3,4270,2023-12-22,2024-02-07,2025-02-06,Under Offer,Savills,Estate Agency,A,1937,0.0,Unfurnished
+PROP0421,Brent,NW10 6AA,Flat,3,2,2600,2022-08-01,2022-09-27,2024-09-26,Let,Purplebricks,Private Landlord,B,1949,109.68,Part Furnished
+PROP0422,Hackney,E8 9AB,Terraced House,3,2,3510,2022-03-10,2022-04-21,2024-04-20,Void,Knight Frank,Corporate Landlord,D,1994,0.0,Part Furnished
+PROP0423,Ealing,W5 2AH,Maisonette,1,1,1940,2022-11-25,2022-12-24,2023-12-24,Let,Direct,Corporate Landlord,C,1957,145.87,Part Furnished
+PROP0424,Ealing,W13 2AB,Flat,3,2,2640,2022-10-27,2022-12-01,2024-11-30,Let,Savills,Housing Association,D,2014,53.64,Furnished
+PROP0425,Tower Hamlets,E3 9AE,Flat,1,1,1780,2022-06-04,2022-06-24,2024-06-23,Under Offer,Foxtons,Corporate Landlord,D,1944,126.04,Part Furnished
+PROP0426,Haringey,N15 6AL,Flat,1,1,1430,2022-08-26,2022-10-25,2024-10-24,Available,Direct,Corporate Landlord,E,2007,164.54,Unfurnished
+PROP0427,Islington,EC1 5AL,Semi-Detached House,3,3,4350,2022-08-21,2022-09-27,2023-09-27,Under Offer,Foxtons,Housing Association,B,1979,0.0,Furnished
+PROP0428,Waltham Forest,E17 3AL,Terraced House,3,3,2690,2023-12-11,2024-01-29,2025-01-28,Let,Savills,Private Landlord,C,1947,0.0,Furnished
+PROP0429,Lambeth,SW2 1AJ,Semi-Detached House,3,2,3350,2022-12-19,2023-01-04,2024-01-04,Let,Knight Frank,Corporate Landlord,D,1998,0.0,Furnished
+PROP0430,Lewisham,SE6 3AP,Maisonette,1,1,2110,2023-07-14,2023-08-22,2024-08-21,Available,Hunters,Estate Agency,D,1943,206.74,Part Furnished
+PROP0431,Lewisham,SE6 2AH,Maisonette,1,1,1980,2022-11-12,2022-11-20,2023-11-20,Available,Countrywide,Estate Agency,A,1977,192.39,Part Furnished
+PROP0432,Greenwich,SE10 8AH,Flat,2,2,1980,2023-07-06,2023-08-10,2025-08-09,Available,Savills,Estate Agency,E,2020,16.81,Part Furnished
+PROP0433,Camden,NW1 8AJ,Terraced House,4,3,4640,2022-01-13,2022-02-07,2023-02-07,Let,Haart,Private Landlord,D,1936,0.0,Furnished
+PROP0434,Brent,NW6 8AN,Detached House,4,3,4550,2022-05-23,2022-07-22,2024-07-21,Available,Knight Frank,Housing Association,C,1908,0.0,Part Furnished
+PROP0435,Brent,NW2 7AG,Terraced House,2,1,2330,2022-10-07,2022-11-09,2023-11-09,Available,Knight Frank,Housing Association,E,1962,0.0,Furnished
+PROP0436,Ealing,W13 5AL,Studio,0,1,1080,2023-07-27,2023-09-19,2024-09-18,Let,Foxtons,Housing Association,B,1983,0.0,Part Furnished
+PROP0437,Hammersmith and Fulham,W6 6AP,Flat,1,1,2180,2023-10-23,2023-11-14,2024-11-13,Let,Hunters,Estate Agency,D,1972,130.82,Unfurnished
+PROP0438,Haringey,N8 8AE,Semi-Detached House,4,4,3610,2023-08-13,2023-08-21,2024-08-20,Let,Foxtons,Housing Association,C,1920,0.0,Furnished
+PROP0439,Islington,N7 3AN,Terraced House,3,3,3640,2023-06-27,2023-08-13,2024-08-12,Let,Knight Frank,Private Landlord,C,2011,0.0,Unfurnished
+PROP0440,Ealing,W5 3AN,Studio,0,1,1080,2023-12-16,2024-02-05,2025-02-04,Let,Purplebricks,Housing Association,C,1947,0.0,Unfurnished
+PROP0441,Wandsworth,SW12 2AB,Flat,1,1,1710,2023-05-31,2023-06-21,2024-06-20,Void,Savills,Estate Agency,B,2018,5.21,Unfurnished
+PROP0442,Islington,N7 2AF,Semi-Detached House,3,2,4420,2023-09-04,2023-10-14,2024-10-13,Let,Hunters,Private Landlord,B,2009,0.0,Part Furnished
+PROP0443,Southwark,SE1 8AJ,Semi-Detached House,3,3,3510,2022-03-22,2022-04-25,2024-04-24,Void,Savills,Private Landlord,A,1925,0.0,Furnished
+PROP0444,Hackney,E8 2AP,Studio,0,1,1460,2023-04-26,2023-05-10,2024-05-09,Let,Hunters,Private Landlord,C,1975,0.0,Furnished
+PROP0445,Southwark,SE1 1AN,Semi-Detached House,3,3,3470,2022-10-12,2022-11-25,2023-11-25,Let,Countrywide,Private Landlord,C,1991,0.0,Furnished
+PROP0446,Islington,N7 3AL,Flat,3,3,3780,2022-04-12,2022-05-02,2024-05-01,Under Offer,Haart,Corporate Landlord,B,1923,250.42,Unfurnished
+PROP0447,Wandsworth,SW12 5AN,Flat,1,1,1680,2022-11-18,2022-12-02,2023-12-02,Let,Knight Frank,Estate Agency,A,1910,98.43,Furnished
+PROP0448,Wandsworth,SW11 8AH,Flat,3,2,2930,2023-03-31,2023-04-21,2025-04-20,Let,Direct,Housing Association,B,1901,299.62,Unfurnished
+PROP0449,Haringey,N4 6AF,Flat,2,1,2090,2022-03-29,2022-04-12,2023-04-12,Let,Savills,Housing Association,C,1925,178.49,Unfurnished
+PROP0450,Tower Hamlets,E3 7AL,Flat,2,1,2480,2023-08-19,2023-10-02,2024-10-01,Void,Direct,Corporate Landlord,E,1935,44.21,Unfurnished
+PROP0451,Tower Hamlets,E14 1AE,Flat,2,1,2370,2022-05-18,2022-05-26,2023-05-26,Available,Savills,Estate Agency,D,1977,203.76,Furnished
+PROP0452,Islington,N7 8AL,Semi-Detached House,3,3,4270,2023-06-17,2023-08-12,2024-08-11,Void,Countrywide,Corporate Landlord,E,1933,0.0,Part Furnished
+PROP0453,Camden,NW3 8AA,Studio,0,1,1630,2022-02-02,2022-03-08,2023-03-08,Let,Purplebricks,Estate Agency,A,1922,0.0,Part Furnished
+PROP0454,Haringey,N4 8AN,Studio,0,1,1240,2022-06-18,2022-07-26,2023-07-26,Let,Direct,Estate Agency,E,1973,0.0,Unfurnished
+PROP0455,Lewisham,SE6 1AA,Semi-Detached House,3,2,2910,2022-09-27,2022-11-04,2024-11-03,Under Offer,Purplebricks,Corporate Landlord,A,1916,0.0,Unfurnished
+PROP0456,Camden,NW3 6AA,Studio,0,1,1500,2023-10-03,2023-10-31,2024-10-30,Let,Purplebricks,Corporate Landlord,C,1931,0.0,Furnished
+PROP0457,Haringey,N8 7AP,Flat,1,1,1440,2022-11-09,2022-11-23,2023-11-23,Let,Purplebricks,Private Landlord,E,2015,126.35,Furnished
+PROP0458,Waltham Forest,E11 4AH,Terraced House,2,1,2070,2023-02-04,2023-03-03,2025-03-02,Let,Haart,Private Landlord,D,1964,0.0,Part Furnished
+PROP0459,Camden,NW3 5AA,Flat,2,1,3050,2022-07-26,2022-09-02,2024-09-01,Void,Savills,Housing Association,C,1973,120.61,Furnished
+PROP0460,Newham,E6 6AB,Detached House,4,3,4270,2022-04-08,2022-05-22,2023-05-22,Let,Haart,Estate Agency,C,1964,0.0,Unfurnished
+PROP0461,Wandsworth,SW18 9AE,Semi-Detached House,3,3,3530,2022-09-15,2022-10-31,2024-10-30,Let,Knight Frank,Private Landlord,D,1927,0.0,Part Furnished
+PROP0462,Ealing,UB6 4AH,Detached House,4,3,4480,2023-06-30,2023-08-27,2025-08-26,Under Offer,Direct,Private Landlord,D,1918,0.0,Furnished
+PROP0463,Southwark,SE15 3AG,Detached House,4,3,5100,2022-03-07,2022-04-23,2023-04-23,Void,Hunters,Corporate Landlord,C,1951,0.0,Furnished
+PROP0464,Tower Hamlets,E14 1AF,Flat,1,1,1980,2022-11-14,2022-12-20,2023-12-20,Available,Direct,Estate Agency,B,1934,40.93,Unfurnished
+PROP0465,Brent,NW2 6AP,Studio,0,1,1150,2023-10-22,2023-10-31,2025-10-30,Let,Foxtons,Private Landlord,C,2010,0.0,Furnished
+PROP0466,Hammersmith and Fulham,SW6 9AB,Maisonette,2,1,2890,2022-04-03,2022-05-05,2024-05-04,Void,Countrywide,Private Landlord,E,1985,248.69,Part Furnished
+PROP0467,Islington,N1 3AB,Terraced House,2,2,3170,2022-11-17,2022-12-15,2024-12-14,Available,Countrywide,Estate Agency,B,1927,0.0,Unfurnished
+PROP0468,Lewisham,SE6 3AH,Terraced House,2,1,2360,2023-12-18,2024-01-01,2024-12-31,Let,Haart,Housing Association,D,1991,0.0,Unfurnished
+PROP0469,Ealing,UB6 7AG,Flat,3,3,2650,2023-11-10,2024-01-07,2025-01-06,Available,Countrywide,Corporate Landlord,C,2015,243.68,Furnished
+PROP0470,Greenwich,SE10 3AL,Studio,0,1,1200,2023-02-07,2023-03-02,2024-03-01,Let,Countrywide,Corporate Landlord,C,2012,0.0,Part Furnished
+PROP0471,Wandsworth,SW11 3AG,Studio,0,1,1420,2023-05-19,2023-06-25,2025-06-24,Let,Purplebricks,Estate Agency,E,1908,0.0,Unfurnished
+PROP0472,Wandsworth,SW18 3AA,Semi-Detached House,4,3,4140,2023-12-13,2023-12-21,2024-12-20,Available,Knight Frank,Estate Agency,D,1925,0.0,Part Furnished
+PROP0473,Islington,EC1 8AE,Flat,1,1,1970,2023-06-13,2023-08-04,2025-08-03,Void,Direct,Corporate Landlord,C,1922,206.24,Unfurnished
+PROP0474,Brent,NW2 8AF,Flat,1,1,1490,2023-02-07,2023-03-10,2025-03-09,Let,Foxtons,Housing Association,C,1989,255.55,Furnished
+PROP0475,Wandsworth,SW18 8AB,Semi-Detached House,4,3,4020,2023-01-12,2023-01-29,2025-01-28,Let,Direct,Estate Agency,C,1991,0.0,Furnished
+PROP0476,Lambeth,SE11 4AJ,Maisonette,2,1,2470,2023-01-27,2023-02-11,2024-02-11,Under Offer,Countrywide,Corporate Landlord,B,1952,237.74,Furnished
+PROP0477,Islington,N1 8AE,Maisonette,1,1,2580,2022-09-12,2022-10-12,2024-10-11,Available,Haart,Private Landlord,C,1988,119.27,Furnished
+PROP0478,Waltham Forest,E17 6AP,Terraced House,4,3,3130,2022-03-16,2022-03-29,2024-03-28,Let,Purplebricks,Housing Association,A,1900,0.0,Unfurnished
+PROP0479,Greenwich,SE18 8AH,Semi-Detached House,3,2,3350,2022-05-16,2022-06-27,2023-06-27,Available,Hunters,Housing Association,D,1916,0.0,Furnished
+PROP0480,Camden,NW3 5AG,Detached House,4,4,5840,2022-11-17,2022-11-26,2023-11-26,Let,Hunters,Corporate Landlord,C,1966,0.0,Unfurnished
+PROP0481,Wandsworth,SW11 3AA,Studio,0,1,1390,2023-05-19,2023-07-13,2024-07-12,Available,Haart,Private Landlord,C,1923,0.0,Furnished
+PROP0482,Lewisham,SE6 2AE,Flat,2,1,1930,2023-05-22,2023-05-31,2024-05-30,Let,Haart,Estate Agency,B,1944,28.07,Unfurnished
+PROP0483,Southwark,SE5 2AF,Studio,0,1,1380,2022-10-07,2022-11-19,2024-11-18,Available,Foxtons,Housing Association,D,1986,0.0,Furnished
+PROP0484,Hammersmith and Fulham,W6 1AB,Flat,2,1,2900,2022-05-05,2022-06-06,2023-06-06,Available,Savills,Corporate Landlord,D,2006,212.31,Unfurnished
+PROP0485,Lewisham,SE23 3AF,Semi-Detached House,3,2,3220,2022-12-04,2022-12-13,2024-12-12,Available,Haart,Corporate Landlord,A,2002,0.0,Part Furnished
+PROP0486,Islington,EC1 2AA,Flat,1,1,1940,2023-09-09,2023-10-10,2024-10-09,Let,Knight Frank,Housing Association,C,1920,116.55,Unfurnished
+PROP0487,Islington,EC1 2AH,Semi-Detached House,4,4,4640,2023-05-18,2023-07-15,2024-07-14,Available,Hunters,Housing Association,E,1925,0.0,Unfurnished
+PROP0488,Lewisham,SE6 7AB,Studio,0,1,1130,2023-09-07,2023-10-11,2024-10-10,Void,Purplebricks,Housing Association,A,1965,0.0,Unfurnished
+PROP0489,Lewisham,SE6 7AB,Semi-Detached House,4,3,3850,2023-05-23,2023-07-02,2025-07-01,Available,Savills,Corporate Landlord,D,1938,0.0,Furnished
+PROP0490,Southwark,SE15 7AJ,Semi-Detached House,3,3,3690,2022-10-30,2022-12-12,2023-12-12,Available,Foxtons,Private Landlord,B,1959,0.0,Part Furnished
+PROP0491,Waltham Forest,E10 7AA,Semi-Detached House,3,2,2710,2022-03-25,2022-05-20,2024-05-19,Let,Haart,Housing Association,B,1953,0.0,Part Furnished
+PROP0492,Islington,N7 2AJ,Flat,2,1,2710,2022-09-29,2022-10-27,2023-10-27,Let,Savills,Corporate Landlord,E,1902,1.75,Furnished
+PROP0493,Hackney,N16 7AG,Flat,2,1,2600,2023-11-05,2023-12-29,2025-12-28,Available,Hunters,Corporate Landlord,B,1916,40.53,Furnished
+PROP0494,Tower Hamlets,E14 9AF,Studio,0,1,1520,2022-01-28,2022-02-17,2023-02-17,Available,Countrywide,Estate Agency,B,1938,0.0,Unfurnished
+PROP0495,Southwark,SE1 8AP,Terraced House,2,2,2610,2022-06-06,2022-07-30,2024-07-29,Let,Haart,Estate Agency,C,1925,0.0,Unfurnished
+PROP0496,Newham,E13 9AG,Studio,0,1,1000,2022-01-09,2022-01-22,2024-01-22,Void,Direct,Estate Agency,A,1962,0.0,Unfurnished
+PROP0497,Lewisham,SE23 7AL,Terraced House,4,4,3550,2023-06-25,2023-07-03,2024-07-02,Available,Savills,Corporate Landlord,B,1963,0.0,Part Furnished
+PROP0498,Haringey,N15 8AE,Flat,2,2,1930,2022-07-16,2022-08-22,2023-08-22,Let,Countrywide,Corporate Landlord,C,1992,213.42,Unfurnished
+PROP0499,Ealing,W5 3AF,Maisonette,2,1,2140,2022-06-15,2022-07-31,2023-07-31,Let,Savills,Estate Agency,B,1977,147.66,Unfurnished
+PROP0500,Lewisham,SE23 1AB,Flat,1,1,1450,2022-01-19,2022-02-17,2023-02-17,Let,Knight Frank,Housing Association,C,1955,34.19,Furnished
